@@ -1,0 +1,324 @@
+{
+  "keys": "/Users/superyang/Downloads/cms-api/config/config.default.js",
+  "middleware": "/Users/superyang/Downloads/cms-api/config/config.default.js",
+  "security": {
+    "csrf": {
+      "enable": "/Users/superyang/Downloads/cms-api/config/config.default.js",
+      "type": "/Users/superyang/Downloads/cms-api/node_modules/egg-security/config/config.default.js",
+      "ignoreJSON": "/Users/superyang/Downloads/cms-api/node_modules/egg-security/config/config.default.js",
+      "useSession": "/Users/superyang/Downloads/cms-api/node_modules/egg-security/config/config.default.js",
+      "cookieName": "/Users/superyang/Downloads/cms-api/node_modules/egg-security/config/config.default.js",
+      "sessionName": "/Users/superyang/Downloads/cms-api/node_modules/egg-security/config/config.default.js",
+      "headerName": "/Users/superyang/Downloads/cms-api/node_modules/egg-security/config/config.default.js",
+      "bodyName": "/Users/superyang/Downloads/cms-api/node_modules/egg-security/config/config.default.js",
+      "queryName": "/Users/superyang/Downloads/cms-api/node_modules/egg-security/config/config.default.js",
+      "supportedRequests": "/Users/superyang/Downloads/cms-api/node_modules/egg-security/config/config.default.js",
+      "refererWhiteList": "/Users/superyang/Downloads/cms-api/node_modules/egg-security/config/config.default.js"
+    },
+    "domainWhiteList": "/Users/superyang/Downloads/cms-api/config/config.default.js",
+    "protocolWhiteList": "/Users/superyang/Downloads/cms-api/node_modules/egg-security/config/config.default.js",
+    "defaultMiddleware": "/Users/superyang/Downloads/cms-api/node_modules/egg-security/config/config.default.js",
+    "xframe": {
+      "enable": "/Users/superyang/Downloads/cms-api/node_modules/egg-security/config/config.default.js",
+      "value": "/Users/superyang/Downloads/cms-api/node_modules/egg-security/config/config.default.js"
+    },
+    "hsts": {
+      "enable": "/Users/superyang/Downloads/cms-api/node_modules/egg-security/config/config.local.js",
+      "maxAge": "/Users/superyang/Downloads/cms-api/node_modules/egg-security/config/config.default.js",
+      "includeSubdomains": "/Users/superyang/Downloads/cms-api/node_modules/egg-security/config/config.default.js"
+    },
+    "dta": {
+      "enable": "/Users/superyang/Downloads/cms-api/node_modules/egg-security/config/config.default.js"
+    },
+    "methodnoallow": {
+      "enable": "/Users/superyang/Downloads/cms-api/node_modules/egg-security/config/config.default.js"
+    },
+    "noopen": {
+      "enable": "/Users/superyang/Downloads/cms-api/node_modules/egg-security/config/config.default.js"
+    },
+    "nosniff": {
+      "enable": "/Users/superyang/Downloads/cms-api/node_modules/egg-security/config/config.default.js"
+    },
+    "referrerPolicy": {
+      "enable": "/Users/superyang/Downloads/cms-api/node_modules/egg-security/config/config.default.js",
+      "value": "/Users/superyang/Downloads/cms-api/node_modules/egg-security/config/config.default.js"
+    },
+    "xssProtection": {
+      "enable": "/Users/superyang/Downloads/cms-api/node_modules/egg-security/config/config.default.js",
+      "value": "/Users/superyang/Downloads/cms-api/node_modules/egg-security/config/config.default.js"
+    },
+    "csp": {
+      "enable": "/Users/superyang/Downloads/cms-api/node_modules/egg-security/config/config.default.js",
+      "policy": "/Users/superyang/Downloads/cms-api/node_modules/egg-security/config/config.default.js"
+    },
+    "ssrf": {
+      "ipBlackList": "/Users/superyang/Downloads/cms-api/node_modules/egg-security/config/config.default.js",
+      "ipExceptionList": "/Users/superyang/Downloads/cms-api/node_modules/egg-security/config/config.default.js",
+      "checkAddress": "/Users/superyang/Downloads/cms-api/node_modules/egg-security/config/config.default.js"
+    }
+  },
+  "cors": {
+    "credentials": "/Users/superyang/Downloads/cms-api/config/config.default.js"
+  },
+  "JWT_SECRET": "/Users/superyang/Downloads/cms-api/config/config.default.js",
+  "mysql": {
+    "client": {
+      "host": "/Users/superyang/Downloads/cms-api/config/config.default.js",
+      "port": "/Users/superyang/Downloads/cms-api/config/config.default.js",
+      "user": "/Users/superyang/Downloads/cms-api/config/config.default.js",
+      "password": "/Users/superyang/Downloads/cms-api/config/config.default.js",
+      "database": "/Users/superyang/Downloads/cms-api/config/config.default.js"
+    },
+    "default": {
+      "database": "/Users/superyang/Downloads/cms-api/node_modules/egg-mysql/config/config.default.js",
+      "connectionLimit": "/Users/superyang/Downloads/cms-api/node_modules/egg-mysql/config/config.default.js"
+    },
+    "app": "/Users/superyang/Downloads/cms-api/node_modules/egg-mysql/config/config.default.js",
+    "agent": "/Users/superyang/Downloads/cms-api/node_modules/egg-mysql/config/config.default.js"
+  },
+  "session": {
+    "maxAge": "/Users/superyang/Downloads/cms-api/node_modules/egg-session/config/config.default.js",
+    "key": "/Users/superyang/Downloads/cms-api/node_modules/egg-session/config/config.default.js",
+    "httpOnly": "/Users/superyang/Downloads/cms-api/node_modules/egg-session/config/config.default.js",
+    "encrypt": "/Users/superyang/Downloads/cms-api/node_modules/egg-session/config/config.default.js",
+    "logValue": "/Users/superyang/Downloads/cms-api/node_modules/egg-session/config/config.default.js"
+  },
+  "helper": {
+    "shtml": "/Users/superyang/Downloads/cms-api/node_modules/egg-security/config/config.default.js"
+  },
+  "jsonp": {
+    "limit": "/Users/superyang/Downloads/cms-api/node_modules/egg-jsonp/config/config.default.js",
+    "callback": "/Users/superyang/Downloads/cms-api/node_modules/egg-jsonp/config/config.default.js",
+    "csrf": "/Users/superyang/Downloads/cms-api/node_modules/egg-jsonp/config/config.default.js"
+  },
+  "onerror": {
+    "errorPageUrl": "/Users/superyang/Downloads/cms-api/node_modules/egg-onerror/config/config.default.js",
+    "appErrorFilter": "/Users/superyang/Downloads/cms-api/node_modules/egg-onerror/config/config.default.js",
+    "templatePath": "/Users/superyang/Downloads/cms-api/node_modules/egg-onerror/config/config.default.js"
+  },
+  "i18n": {
+    "defaultLocale": "/Users/superyang/Downloads/cms-api/node_modules/egg-i18n/config/config.default.js",
+    "dirs": "/Users/superyang/Downloads/cms-api/node_modules/egg-i18n/config/config.default.js",
+    "queryField": "/Users/superyang/Downloads/cms-api/node_modules/egg-i18n/config/config.default.js",
+    "cookieField": "/Users/superyang/Downloads/cms-api/node_modules/egg-i18n/config/config.default.js",
+    "cookieDomain": "/Users/superyang/Downloads/cms-api/node_modules/egg-i18n/config/config.default.js",
+    "cookieMaxAge": "/Users/superyang/Downloads/cms-api/node_modules/egg-i18n/config/config.default.js"
+  },
+  "watcher": {
+    "type": "/Users/superyang/Downloads/cms-api/node_modules/egg-watcher/config/config.local.js",
+    "eventSources": {
+      "default": "/Users/superyang/Downloads/cms-api/node_modules/egg-watcher/config/config.default.js",
+      "development": "/Users/superyang/Downloads/cms-api/node_modules/egg-watcher/config/config.default.js"
+    }
+  },
+  "customLogger": {
+    "scheduleLogger": {
+      "consoleLevel": "/Users/superyang/Downloads/cms-api/node_modules/egg-schedule/config/config.default.js",
+      "file": "/Users/superyang/Downloads/cms-api/node_modules/egg-schedule/config/config.default.js"
+    }
+  },
+  "schedule": {
+    "directory": "/Users/superyang/Downloads/cms-api/node_modules/egg-schedule/config/config.default.js"
+  },
+  "multipart": {
+    "mode": "/Users/superyang/Downloads/cms-api/node_modules/egg-multipart/config/config.default.js",
+    "autoFields": "/Users/superyang/Downloads/cms-api/node_modules/egg-multipart/config/config.default.js",
+    "defaultCharset": "/Users/superyang/Downloads/cms-api/node_modules/egg-multipart/config/config.default.js",
+    "fieldNameSize": "/Users/superyang/Downloads/cms-api/node_modules/egg-multipart/config/config.default.js",
+    "fieldSize": "/Users/superyang/Downloads/cms-api/node_modules/egg-multipart/config/config.default.js",
+    "fields": "/Users/superyang/Downloads/cms-api/node_modules/egg-multipart/config/config.default.js",
+    "fileSize": "/Users/superyang/Downloads/cms-api/node_modules/egg-multipart/config/config.default.js",
+    "files": "/Users/superyang/Downloads/cms-api/node_modules/egg-multipart/config/config.default.js",
+    "fileExtensions": "/Users/superyang/Downloads/cms-api/node_modules/egg-multipart/config/config.default.js",
+    "whitelist": "/Users/superyang/Downloads/cms-api/node_modules/egg-multipart/config/config.default.js",
+    "allowArrayField": "/Users/superyang/Downloads/cms-api/node_modules/egg-multipart/config/config.default.js",
+    "tmpdir": "/Users/superyang/Downloads/cms-api/node_modules/egg-multipart/config/config.default.js",
+    "cleanSchedule": {
+      "cron": "/Users/superyang/Downloads/cms-api/node_modules/egg-multipart/config/config.default.js",
+      "disable": "/Users/superyang/Downloads/cms-api/node_modules/egg-multipart/config/config.default.js"
+    }
+  },
+  "development": {
+    "watchDirs": "/Users/superyang/Downloads/cms-api/node_modules/egg-development/config/config.default.js",
+    "ignoreDirs": "/Users/superyang/Downloads/cms-api/node_modules/egg-development/config/config.default.js",
+    "fastReady": "/Users/superyang/Downloads/cms-api/node_modules/egg-development/config/config.default.js",
+    "reloadOnDebug": "/Users/superyang/Downloads/cms-api/node_modules/egg-development/config/config.default.js",
+    "overrideDefault": "/Users/superyang/Downloads/cms-api/node_modules/egg-development/config/config.default.js",
+    "overrideIgnore": "/Users/superyang/Downloads/cms-api/node_modules/egg-development/config/config.default.js"
+  },
+  "logrotator": {
+    "filesRotateByHour": "/Users/superyang/Downloads/cms-api/node_modules/egg-logrotator/config/config.default.js",
+    "hourDelimiter": "/Users/superyang/Downloads/cms-api/node_modules/egg-logrotator/config/config.default.js",
+    "filesRotateBySize": "/Users/superyang/Downloads/cms-api/node_modules/egg-logrotator/config/config.default.js",
+    "maxFileSize": "/Users/superyang/Downloads/cms-api/node_modules/egg-logrotator/config/config.default.js",
+    "maxFiles": "/Users/superyang/Downloads/cms-api/node_modules/egg-logrotator/config/config.default.js",
+    "rotateDuration": "/Users/superyang/Downloads/cms-api/node_modules/egg-logrotator/config/config.default.js",
+    "maxDays": "/Users/superyang/Downloads/cms-api/node_modules/egg-logrotator/config/config.default.js"
+  },
+  "static": {
+    "prefix": "/Users/superyang/Downloads/cms-api/node_modules/egg-static/config/config.default.js",
+    "dir": "/Users/superyang/Downloads/cms-api/node_modules/egg-static/config/config.default.js",
+    "dynamic": "/Users/superyang/Downloads/cms-api/node_modules/egg-static/config/config.default.js",
+    "preload": "/Users/superyang/Downloads/cms-api/node_modules/egg-static/config/config.default.js",
+    "buffer": "/Users/superyang/Downloads/cms-api/node_modules/egg-static/config/config.default.js",
+    "maxFiles": "/Users/superyang/Downloads/cms-api/node_modules/egg-static/config/config.default.js"
+  },
+  "view": {
+    "root": "/Users/superyang/Downloads/cms-api/node_modules/egg-view/config/config.default.js",
+    "cache": "/Users/superyang/Downloads/cms-api/node_modules/egg-view/config/config.local.js",
+    "defaultExtension": "/Users/superyang/Downloads/cms-api/node_modules/egg-view/config/config.default.js",
+    "defaultViewEngine": "/Users/superyang/Downloads/cms-api/node_modules/egg-view/config/config.default.js",
+    "mapping": "/Users/superyang/Downloads/cms-api/node_modules/egg-view/config/config.default.js"
+  },
+  "env": "/Users/superyang/Downloads/cms-api/node_modules/egg/config/config.default.js",
+  "name": "/Users/superyang/Downloads/cms-api/node_modules/egg/config/config.default.js",
+  "cookies": "/Users/superyang/Downloads/cms-api/node_modules/egg/config/config.default.js",
+  "proxy": "/Users/superyang/Downloads/cms-api/node_modules/egg/config/config.default.js",
+  "maxIpsCount": "/Users/superyang/Downloads/cms-api/node_modules/egg/config/config.default.js",
+  "maxProxyCount": "/Users/superyang/Downloads/cms-api/node_modules/egg/config/config.default.js",
+  "protocolHeaders": "/Users/superyang/Downloads/cms-api/node_modules/egg/config/config.default.js",
+  "ipHeaders": "/Users/superyang/Downloads/cms-api/node_modules/egg/config/config.default.js",
+  "hostHeaders": "/Users/superyang/Downloads/cms-api/node_modules/egg/config/config.default.js",
+  "pkg": {
+    "name": "/Users/superyang/Downloads/cms-api/node_modules/egg/config/config.default.js",
+    "version": "/Users/superyang/Downloads/cms-api/node_modules/egg/config/config.default.js",
+    "description": "/Users/superyang/Downloads/cms-api/node_modules/egg/config/config.default.js",
+    "private": "/Users/superyang/Downloads/cms-api/node_modules/egg/config/config.default.js",
+    "egg": {
+      "declarations": "/Users/superyang/Downloads/cms-api/node_modules/egg/config/config.default.js"
+    },
+    "dependencies": {
+      "egg": "/Users/superyang/Downloads/cms-api/node_modules/egg/config/config.default.js",
+      "egg-cors": "/Users/superyang/Downloads/cms-api/node_modules/egg/config/config.default.js",
+      "egg-mysql": "/Users/superyang/Downloads/cms-api/node_modules/egg/config/config.default.js",
+      "egg-scripts": "/Users/superyang/Downloads/cms-api/node_modules/egg/config/config.default.js",
+      "jsonwebtoken": "/Users/superyang/Downloads/cms-api/node_modules/egg/config/config.default.js",
+      "svg-captcha": "/Users/superyang/Downloads/cms-api/node_modules/egg/config/config.default.js"
+    },
+    "devDependencies": {
+      "autod": "/Users/superyang/Downloads/cms-api/node_modules/egg/config/config.default.js",
+      "autod-egg": "/Users/superyang/Downloads/cms-api/node_modules/egg/config/config.default.js",
+      "egg-bin": "/Users/superyang/Downloads/cms-api/node_modules/egg/config/config.default.js",
+      "egg-ci": "/Users/superyang/Downloads/cms-api/node_modules/egg/config/config.default.js",
+      "egg-mock": "/Users/superyang/Downloads/cms-api/node_modules/egg/config/config.default.js",
+      "eslint": "/Users/superyang/Downloads/cms-api/node_modules/egg/config/config.default.js",
+      "eslint-config-egg": "/Users/superyang/Downloads/cms-api/node_modules/egg/config/config.default.js"
+    },
+    "engines": {
+      "node": "/Users/superyang/Downloads/cms-api/node_modules/egg/config/config.default.js"
+    },
+    "scripts": {
+      "start": "/Users/superyang/Downloads/cms-api/node_modules/egg/config/config.default.js",
+      "stop": "/Users/superyang/Downloads/cms-api/node_modules/egg/config/config.default.js",
+      "dev": "/Users/superyang/Downloads/cms-api/node_modules/egg/config/config.default.js",
+      "debug": "/Users/superyang/Downloads/cms-api/node_modules/egg/config/config.default.js",
+      "test": "/Users/superyang/Downloads/cms-api/node_modules/egg/config/config.default.js",
+      "test-local": "/Users/superyang/Downloads/cms-api/node_modules/egg/config/config.default.js",
+      "cov": "/Users/superyang/Downloads/cms-api/node_modules/egg/config/config.default.js",
+      "lint": "/Users/superyang/Downloads/cms-api/node_modules/egg/config/config.default.js",
+      "ci": "/Users/superyang/Downloads/cms-api/node_modules/egg/config/config.default.js",
+      "autod": "/Users/superyang/Downloads/cms-api/node_modules/egg/config/config.default.js"
+    },
+    "ci": {
+      "version": "/Users/superyang/Downloads/cms-api/node_modules/egg/config/config.default.js"
+    },
+    "repository": {
+      "type": "/Users/superyang/Downloads/cms-api/node_modules/egg/config/config.default.js",
+      "url": "/Users/superyang/Downloads/cms-api/node_modules/egg/config/config.default.js"
+    },
+    "author": "/Users/superyang/Downloads/cms-api/node_modules/egg/config/config.default.js",
+    "license": "/Users/superyang/Downloads/cms-api/node_modules/egg/config/config.default.js"
+  },
+  "baseDir": "/Users/superyang/Downloads/cms-api/node_modules/egg/config/config.default.js",
+  "HOME": "/Users/superyang/Downloads/cms-api/node_modules/egg/config/config.default.js",
+  "rundir": "/Users/superyang/Downloads/cms-api/node_modules/egg/config/config.default.js",
+  "dump": {
+    "ignore": "/Users/superyang/Downloads/cms-api/node_modules/egg/config/config.default.js"
+  },
+  "confusedConfigurations": {
+    "bodyparser": "/Users/superyang/Downloads/cms-api/node_modules/egg/config/config.default.js",
+    "notFound": "/Users/superyang/Downloads/cms-api/node_modules/egg/config/config.default.js",
+    "sitefile": "/Users/superyang/Downloads/cms-api/node_modules/egg/config/config.default.js",
+    "middlewares": "/Users/superyang/Downloads/cms-api/node_modules/egg/config/config.default.js",
+    "httpClient": "/Users/superyang/Downloads/cms-api/node_modules/egg/config/config.default.js"
+  },
+  "notfound": {
+    "pageUrl": "/Users/superyang/Downloads/cms-api/node_modules/egg/config/config.default.js"
+  },
+  "siteFile": {
+    "/favicon.ico": "/Users/superyang/Downloads/cms-api/node_modules/egg/config/config.default.js",
+    "cacheControl": "/Users/superyang/Downloads/cms-api/node_modules/egg/config/config.default.js"
+  },
+  "bodyParser": {
+    "enable": "/Users/superyang/Downloads/cms-api/node_modules/egg/config/config.default.js",
+    "encoding": "/Users/superyang/Downloads/cms-api/node_modules/egg/config/config.default.js",
+    "formLimit": "/Users/superyang/Downloads/cms-api/node_modules/egg/config/config.default.js",
+    "jsonLimit": "/Users/superyang/Downloads/cms-api/node_modules/egg/config/config.default.js",
+    "textLimit": "/Users/superyang/Downloads/cms-api/node_modules/egg/config/config.default.js",
+    "strict": "/Users/superyang/Downloads/cms-api/node_modules/egg/config/config.default.js",
+    "queryString": {
+      "arrayLimit": "/Users/superyang/Downloads/cms-api/node_modules/egg/config/config.default.js",
+      "depth": "/Users/superyang/Downloads/cms-api/node_modules/egg/config/config.default.js",
+      "parameterLimit": "/Users/superyang/Downloads/cms-api/node_modules/egg/config/config.default.js"
+    },
+    "onerror": "/Users/superyang/Downloads/cms-api/node_modules/egg/config/config.default.js"
+  },
+  "logger": {
+    "dir": "/Users/superyang/Downloads/cms-api/node_modules/egg/config/config.default.js",
+    "encoding": "/Users/superyang/Downloads/cms-api/node_modules/egg/config/config.default.js",
+    "env": "/Users/superyang/Downloads/cms-api/node_modules/egg/config/config.default.js",
+    "level": "/Users/superyang/Downloads/cms-api/node_modules/egg/config/config.default.js",
+    "consoleLevel": "/Users/superyang/Downloads/cms-api/node_modules/egg/config/config.default.js",
+    "disableConsoleAfterReady": "/Users/superyang/Downloads/cms-api/node_modules/egg/config/config.default.js",
+    "outputJSON": "/Users/superyang/Downloads/cms-api/node_modules/egg/config/config.default.js",
+    "buffer": "/Users/superyang/Downloads/cms-api/node_modules/egg/config/config.default.js",
+    "appLogName": "/Users/superyang/Downloads/cms-api/node_modules/egg/config/config.default.js",
+    "coreLogName": "/Users/superyang/Downloads/cms-api/node_modules/egg/config/config.default.js",
+    "agentLogName": "/Users/superyang/Downloads/cms-api/node_modules/egg/config/config.default.js",
+    "errorLogName": "/Users/superyang/Downloads/cms-api/node_modules/egg/config/config.default.js",
+    "coreLogger": {
+      "consoleLevel": "/Users/superyang/Downloads/cms-api/node_modules/egg/config/config.local.js"
+    },
+    "allowDebugAtProd": "/Users/superyang/Downloads/cms-api/node_modules/egg/config/config.default.js",
+    "enablePerformanceTimer": "/Users/superyang/Downloads/cms-api/node_modules/egg/config/config.default.js"
+  },
+  "httpclient": {
+    "enableDNSCache": "/Users/superyang/Downloads/cms-api/node_modules/egg/config/config.default.js",
+    "dnsCacheLookupInterval": "/Users/superyang/Downloads/cms-api/node_modules/egg/config/config.default.js",
+    "dnsCacheMaxLength": "/Users/superyang/Downloads/cms-api/node_modules/egg/config/config.default.js",
+    "request": {
+      "timeout": "/Users/superyang/Downloads/cms-api/node_modules/egg/config/config.default.js"
+    },
+    "httpAgent": {
+      "keepAlive": "/Users/superyang/Downloads/cms-api/node_modules/egg/config/config.default.js",
+      "freeSocketTimeout": "/Users/superyang/Downloads/cms-api/node_modules/egg/config/config.default.js",
+      "maxSockets": "/Users/superyang/Downloads/cms-api/node_modules/egg/config/config.default.js",
+      "maxFreeSockets": "/Users/superyang/Downloads/cms-api/node_modules/egg/config/config.default.js"
+    },
+    "httpsAgent": {
+      "keepAlive": "/Users/superyang/Downloads/cms-api/node_modules/egg/config/config.default.js",
+      "freeSocketTimeout": "/Users/superyang/Downloads/cms-api/node_modules/egg/config/config.default.js",
+      "maxSockets": "/Users/superyang/Downloads/cms-api/node_modules/egg/config/config.default.js",
+      "maxFreeSockets": "/Users/superyang/Downloads/cms-api/node_modules/egg/config/config.default.js"
+    }
+  },
+  "meta": {
+    "enable": "/Users/superyang/Downloads/cms-api/node_modules/egg/config/config.default.js",
+    "logging": "/Users/superyang/Downloads/cms-api/node_modules/egg/config/config.default.js"
+  },
+  "coreMiddleware": "/Users/superyang/Downloads/cms-api/node_modules/egg/config/config.default.js",
+  "workerStartTimeout": "/Users/superyang/Downloads/cms-api/node_modules/egg/config/config.default.js",
+  "serverTimeout": "/Users/superyang/Downloads/cms-api/node_modules/egg/config/config.default.js",
+  "cluster": {
+    "listen": {
+      "path": "/Users/superyang/Downloads/cms-api/node_modules/egg/config/config.default.js",
+      "port": "/Users/superyang/Downloads/cms-api/node_modules/egg/config/config.default.js",
+      "hostname": "/Users/superyang/Downloads/cms-api/node_modules/egg/config/config.default.js"
+    }
+  },
+  "clusterClient": {
+    "maxWaitTime": "/Users/superyang/Downloads/cms-api/node_modules/egg/config/config.default.js",
+    "responseTimeout": "/Users/superyang/Downloads/cms-api/node_modules/egg/config/config.default.js"
+  },
+  "onClientError": "/Users/superyang/Downloads/cms-api/node_modules/egg/config/config.default.js"
+}

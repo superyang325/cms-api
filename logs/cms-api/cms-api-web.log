@@ -1,0 +1,1197 @@
+2019-08-07 20:22:32,258 WARN 56432 [-/127.0.0.1/-/16ms POST /api/user] invalid csrf token. See https://eggjs.org/zh-cn/core/security.html#安全威胁csrf的防范
+2019-08-07 20:22:32,264 WARN 56432 [-/127.0.0.1/-/22ms POST /api/user] nodejs.ForbiddenError: invalid csrf token
+    at Object.throw (C:\vipdata\vipproject\2019projects\cms-api\node_modules\_koa@2.7.0@koa\lib\context.js:97:11)
+    at Object.assertCsrf (C:\vipdata\vipproject\2019projects\cms-api\node_modules\_egg-security@2.5.0@egg-security\app\extend\context.js:157:17)
+    at csrf (C:\vipdata\vipproject\2019projects\cms-api\node_modules\_egg-security@2.5.0@egg-security\lib\middlewares\csrf.js:31:9)
+    at dispatch (C:\vipdata\vipproject\2019projects\cms-api\node_modules\_koa-compose@4.1.0@koa-compose\index.js:42:32)
+    at C:\vipdata\vipproject\2019projects\cms-api\node_modules\_koa-compose@4.1.0@koa-compose\index.js:34:12
+    at dispatch (C:\vipdata\vipproject\2019projects\cms-api\node_modules\_koa-compose@4.1.0@koa-compose\index.js:42:32)
+    at session (C:\vipdata\vipproject\2019projects\cms-api\node_modules\_koa-session@5.12.2@koa-session\index.js:41:13)
+    at dispatch (C:\vipdata\vipproject\2019projects\cms-api\node_modules\_koa-compose@4.1.0@koa-compose\index.js:42:32)
+    at overrideMethod (C:\vipdata\vipproject\2019projects\cms-api\node_modules\_koa-override@3.0.0@koa-override\index.js:38:12)
+    at dispatch (C:\vipdata\vipproject\2019projects\cms-api\node_modules\_koa-compose@4.1.0@koa-compose\index.js:42:32)
+message: "invalid csrf token"
+pid: 56432
+hostname: DESKTOP-DUAKF8G
+
+2019-08-07 20:23:06,021 WARN 57888 [-/127.0.0.1/-/21ms POST /api/user] invalid csrf token. See https://eggjs.org/zh-cn/core/security.html#安全威胁csrf的防范
+2019-08-07 20:23:06,025 WARN 57888 [-/127.0.0.1/-/25ms POST /api/user] nodejs.ForbiddenError: invalid csrf token
+    at Object.throw (C:\vipdata\vipproject\2019projects\cms-api\node_modules\_koa@2.7.0@koa\lib\context.js:97:11)
+    at Object.assertCsrf (C:\vipdata\vipproject\2019projects\cms-api\node_modules\_egg-security@2.5.0@egg-security\app\extend\context.js:157:17)
+    at csrf (C:\vipdata\vipproject\2019projects\cms-api\node_modules\_egg-security@2.5.0@egg-security\lib\middlewares\csrf.js:31:9)
+    at dispatch (C:\vipdata\vipproject\2019projects\cms-api\node_modules\_koa-compose@4.1.0@koa-compose\index.js:42:32)
+    at C:\vipdata\vipproject\2019projects\cms-api\node_modules\_koa-compose@4.1.0@koa-compose\index.js:34:12
+    at dispatch (C:\vipdata\vipproject\2019projects\cms-api\node_modules\_koa-compose@4.1.0@koa-compose\index.js:42:32)
+    at session (C:\vipdata\vipproject\2019projects\cms-api\node_modules\_koa-session@5.12.2@koa-session\index.js:41:13)
+    at dispatch (C:\vipdata\vipproject\2019projects\cms-api\node_modules\_koa-compose@4.1.0@koa-compose\index.js:42:32)
+    at overrideMethod (C:\vipdata\vipproject\2019projects\cms-api\node_modules\_koa-override@3.0.0@koa-override\index.js:38:12)
+    at dispatch (C:\vipdata\vipproject\2019projects\cms-api\node_modules\_koa-compose@4.1.0@koa-compose\index.js:42:32)
+message: "invalid csrf token"
+pid: 57888
+hostname: DESKTOP-DUAKF8G
+
+2019-08-07 20:23:23,147 WARN 59040 [-/127.0.0.1/-/18ms POST /api/user] invalid csrf token. See https://eggjs.org/zh-cn/core/security.html#安全威胁csrf的防范
+2019-08-07 20:23:23,151 WARN 59040 [-/127.0.0.1/-/22ms POST /api/user] nodejs.ForbiddenError: invalid csrf token
+    at Object.throw (C:\vipdata\vipproject\2019projects\cms-api\node_modules\_koa@2.7.0@koa\lib\context.js:97:11)
+    at Object.assertCsrf (C:\vipdata\vipproject\2019projects\cms-api\node_modules\_egg-security@2.5.0@egg-security\app\extend\context.js:157:17)
+    at csrf (C:\vipdata\vipproject\2019projects\cms-api\node_modules\_egg-security@2.5.0@egg-security\lib\middlewares\csrf.js:31:9)
+    at dispatch (C:\vipdata\vipproject\2019projects\cms-api\node_modules\_koa-compose@4.1.0@koa-compose\index.js:42:32)
+    at C:\vipdata\vipproject\2019projects\cms-api\node_modules\_koa-compose@4.1.0@koa-compose\index.js:34:12
+    at dispatch (C:\vipdata\vipproject\2019projects\cms-api\node_modules\_koa-compose@4.1.0@koa-compose\index.js:42:32)
+    at session (C:\vipdata\vipproject\2019projects\cms-api\node_modules\_koa-session@5.12.2@koa-session\index.js:41:13)
+    at dispatch (C:\vipdata\vipproject\2019projects\cms-api\node_modules\_koa-compose@4.1.0@koa-compose\index.js:42:32)
+    at overrideMethod (C:\vipdata\vipproject\2019projects\cms-api\node_modules\_koa-override@3.0.0@koa-override\index.js:38:12)
+    at dispatch (C:\vipdata\vipproject\2019projects\cms-api\node_modules\_koa-compose@4.1.0@koa-compose\index.js:42:32)
+message: "invalid csrf token"
+pid: 59040
+hostname: DESKTOP-DUAKF8G
+
+2019-08-07 20:27:10,924 ERROR 56200 [-/127.0.0.1/-/8ms GET /api/user] nodejs.ReferenceError: service is not defined
+    at UserController.index (C:\vipdata\vipproject\2019projects\cms-api\app\controller\user.js:6:18)
+    at Object.callFn (C:\vipdata\vipproject\2019projects\cms-api\node_modules\_egg-core@4.17.3@egg-core\lib\utils\index.js:44:21)
+    at Object.classControllerMiddleware (C:\vipdata\vipproject\2019projects\cms-api\node_modules\_egg-core@4.17.3@egg-core\lib\loader\mixin\controller.js:87:20)
+    at Object.callFn (C:\vipdata\vipproject\2019projects\cms-api\node_modules\_@eggjs_router@2.0.0@@eggjs\router\lib\utils.js:12:21)
+    at wrappedController (C:\vipdata\vipproject\2019projects\cms-api\node_modules\_@eggjs_router@2.0.0@@eggjs\router\lib\egg_router.js:322:18)
+    at dispatch (C:\vipdata\vipproject\2019projects\cms-api\node_modules\_koa-compose@3.2.1@koa-compose\index.js:44:32)
+    at next (C:\vipdata\vipproject\2019projects\cms-api\node_modules\_koa-compose@3.2.1@koa-compose\index.js:45:18)
+    at C:\vipdata\vipproject\2019projects\cms-api\node_modules\_@eggjs_router@2.0.0@@eggjs\router\lib\router.js:190:18
+    at dispatch (C:\vipdata\vipproject\2019projects\cms-api\node_modules\_koa-compose@3.2.1@koa-compose\index.js:44:32)
+    at C:\vipdata\vipproject\2019projects\cms-api\node_modules\_koa-compose@3.2.1@koa-compose\index.js:36:12
+
+pid: 56200
+hostname: DESKTOP-DUAKF8G
+
+2019-08-07 21:35:52,376 ERROR 43580 [-/127.0.0.1/-/8ms GET /api/role/getResource] nodejs.ReferenceError: result is not defined
+    at RoleService.getResource (C:\vipdata\vipproject\2019projects\cms-api\app\service\role.js:44:5)
+    at process.internalTickCallback (internal/process/next_tick.js:77:7)
+
+pid: 43580
+hostname: DESKTOP-DUAKF8G
+
+2019-08-07 21:49:32,540 ERROR 348 [-/127.0.0.1/-/7ms GET /api/user?pageNum=2&pageSize=3] nodejs.ER_BAD_FIELD_ERRORError: ER_BAD_FIELD_ERROR: Unknown column 'age' in 'order clause'
+    at Query.Sequence._packetToError (C:\vipdata\vipproject\2019projects\cms-api\node_modules\_mysql@2.17.1@mysql\lib\protocol\sequences\Sequence.js:47:14)
+    at Query.ErrorPacket (C:\vipdata\vipproject\2019projects\cms-api\node_modules\_mysql@2.17.1@mysql\lib\protocol\sequences\Query.js:77:18)
+    at Protocol._parsePacket (C:\vipdata\vipproject\2019projects\cms-api\node_modules\_mysql@2.17.1@mysql\lib\protocol\Protocol.js:291:23)
+    at Parser._parsePacket (C:\vipdata\vipproject\2019projects\cms-api\node_modules\_mysql@2.17.1@mysql\lib\protocol\Parser.js:433:10)
+    at Parser.write (C:\vipdata\vipproject\2019projects\cms-api\node_modules\_mysql@2.17.1@mysql\lib\protocol\Parser.js:43:10)
+    at Protocol.write (C:\vipdata\vipproject\2019projects\cms-api\node_modules\_mysql@2.17.1@mysql\lib\protocol\Protocol.js:38:16)
+    at Socket.<anonymous> (C:\vipdata\vipproject\2019projects\cms-api\node_modules\_mysql@2.17.1@mysql\lib\Connection.js:91:28)
+    at Socket.<anonymous> (C:\vipdata\vipproject\2019projects\cms-api\node_modules\_mysql@2.17.1@mysql\lib\Connection.js:525:10)
+    at Socket.emit (events.js:182:13)
+    at addChunk (_stream_readable.js:283:12)
+    --------------------
+    at Pool.query (C:\vipdata\vipproject\2019projects\cms-api\node_modules\_mysql@2.17.1@mysql\lib\Pool.js:199:23)
+    at C:\vipdata\vipproject\2019projects\cms-api\node_modules\_pify@2.3.0@pify\index.js:29:7
+    at new Promise (<anonymous>)
+    at Pool.<anonymous> (C:\vipdata\vipproject\2019projects\cms-api\node_modules\_pify@2.3.0@pify\index.js:12:10)
+    at Pool.ret [as query] (C:\vipdata\vipproject\2019projects\cms-api\node_modules\_pify@2.3.0@pify\index.js:56:34)
+    at RDSClient.proto._query (C:\vipdata\vipproject\2019projects\cms-api\node_modules\_ali-rds@3.3.0@ali-rds\lib\client.js:34:20)
+    at RDSClient.proto.query (C:\vipdata\vipproject\2019projects\cms-api\node_modules\_ali-rds@3.3.0@ali-rds\lib\operator.js:54:29)
+    at proto.query.next (<anonymous>)
+    at onFulfilled (C:\vipdata\vipproject\2019projects\cms-api\node_modules\_co@4.6.0@co\index.js:65:19)
+    at C:\vipdata\vipproject\2019projects\cms-api\node_modules\_co@4.6.0@co\index.js:54:5
+    sql: SELECT * FROM `user` ORDER BY `id` DESC, `age` ASC LIMIT 3, 3
+code: "ER_BAD_FIELD_ERROR"
+errno: 1054
+sqlMessage: "Unknown column 'age' in 'order clause'"
+sqlState: "42S22"
+index: 0
+sql: "SELECT * FROM `user` ORDER BY `id` DESC, `age` ASC LIMIT 3, 3"
+name: "ER_BAD_FIELD_ERRORError"
+pid: 348
+hostname: DESKTOP-DUAKF8G
+
+2019-08-07 21:49:59,021 ERROR 51420 [-/127.0.0.1/-/17ms GET /api/user?pageNum=2&pageSize=3] nodejs.ER_PARSE_ERRORError: ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+    at Query.Sequence._packetToError (C:\vipdata\vipproject\2019projects\cms-api\node_modules\_mysql@2.17.1@mysql\lib\protocol\sequences\Sequence.js:47:14)
+    at Query.ErrorPacket (C:\vipdata\vipproject\2019projects\cms-api\node_modules\_mysql@2.17.1@mysql\lib\protocol\sequences\Query.js:77:18)
+    at Protocol._parsePacket (C:\vipdata\vipproject\2019projects\cms-api\node_modules\_mysql@2.17.1@mysql\lib\protocol\Protocol.js:291:23)
+    at Parser._parsePacket (C:\vipdata\vipproject\2019projects\cms-api\node_modules\_mysql@2.17.1@mysql\lib\protocol\Parser.js:433:10)
+    at Parser.write (C:\vipdata\vipproject\2019projects\cms-api\node_modules\_mysql@2.17.1@mysql\lib\protocol\Parser.js:43:10)
+    at Protocol.write (C:\vipdata\vipproject\2019projects\cms-api\node_modules\_mysql@2.17.1@mysql\lib\protocol\Protocol.js:38:16)
+    at Socket.<anonymous> (C:\vipdata\vipproject\2019projects\cms-api\node_modules\_mysql@2.17.1@mysql\lib\Connection.js:91:28)
+    at Socket.<anonymous> (C:\vipdata\vipproject\2019projects\cms-api\node_modules\_mysql@2.17.1@mysql\lib\Connection.js:525:10)
+    at Socket.emit (events.js:182:13)
+    at addChunk (_stream_readable.js:283:12)
+    --------------------
+    at Pool.query (C:\vipdata\vipproject\2019projects\cms-api\node_modules\_mysql@2.17.1@mysql\lib\Pool.js:199:23)
+    at C:\vipdata\vipproject\2019projects\cms-api\node_modules\_pify@2.3.0@pify\index.js:29:7
+    at new Promise (<anonymous>)
+    at Pool.<anonymous> (C:\vipdata\vipproject\2019projects\cms-api\node_modules\_pify@2.3.0@pify\index.js:12:10)
+    at Pool.ret [as query] (C:\vipdata\vipproject\2019projects\cms-api\node_modules\_pify@2.3.0@pify\index.js:56:34)
+    at RDSClient.proto._query (C:\vipdata\vipproject\2019projects\cms-api\node_modules\_ali-rds@3.3.0@ali-rds\lib\client.js:34:20)
+    at RDSClient.proto.query (C:\vipdata\vipproject\2019projects\cms-api\node_modules\_ali-rds@3.3.0@ali-rds\lib\operator.js:54:29)
+    at proto.query.next (<anonymous>)
+    at onFulfilled (C:\vipdata\vipproject\2019projects\cms-api\node_modules\_co@4.6.0@co\index.js:65:19)
+    at C:\vipdata\vipproject\2019projects\cms-api\node_modules\_co@4.6.0@co\index.js:54:5
+    sql: SELECT COUNT(*) as count FROM `user` WHERE `where` = 
+code: "ER_PARSE_ERROR"
+errno: 1064
+sqlMessage: "You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1"
+sqlState: "42000"
+index: 0
+sql: "SELECT COUNT(*) as count FROM `user` WHERE `where` = "
+name: "ER_PARSE_ERRORError"
+pid: 51420
+hostname: DESKTOP-DUAKF8G
+
+2019-08-07 21:50:50,223 ERROR 52808 [-/127.0.0.1/-/14ms GET /api/user?pageNum=2&pageSize=3&1=1] nodejs.ER_BAD_FIELD_ERRORError: ER_BAD_FIELD_ERROR: Unknown column '1' in 'where clause'
+    at Query.Sequence._packetToError (C:\vipdata\vipproject\2019projects\cms-api\node_modules\_mysql@2.17.1@mysql\lib\protocol\sequences\Sequence.js:47:14)
+    at Query.ErrorPacket (C:\vipdata\vipproject\2019projects\cms-api\node_modules\_mysql@2.17.1@mysql\lib\protocol\sequences\Query.js:77:18)
+    at Protocol._parsePacket (C:\vipdata\vipproject\2019projects\cms-api\node_modules\_mysql@2.17.1@mysql\lib\protocol\Protocol.js:291:23)
+    at Parser._parsePacket (C:\vipdata\vipproject\2019projects\cms-api\node_modules\_mysql@2.17.1@mysql\lib\protocol\Parser.js:433:10)
+    at Parser.write (C:\vipdata\vipproject\2019projects\cms-api\node_modules\_mysql@2.17.1@mysql\lib\protocol\Parser.js:43:10)
+    at Protocol.write (C:\vipdata\vipproject\2019projects\cms-api\node_modules\_mysql@2.17.1@mysql\lib\protocol\Protocol.js:38:16)
+    at Socket.<anonymous> (C:\vipdata\vipproject\2019projects\cms-api\node_modules\_mysql@2.17.1@mysql\lib\Connection.js:91:28)
+    at Socket.<anonymous> (C:\vipdata\vipproject\2019projects\cms-api\node_modules\_mysql@2.17.1@mysql\lib\Connection.js:525:10)
+    at Socket.emit (events.js:182:13)
+    at addChunk (_stream_readable.js:283:12)
+    --------------------
+    at Pool.query (C:\vipdata\vipproject\2019projects\cms-api\node_modules\_mysql@2.17.1@mysql\lib\Pool.js:199:23)
+    at C:\vipdata\vipproject\2019projects\cms-api\node_modules\_pify@2.3.0@pify\index.js:29:7
+    at new Promise (<anonymous>)
+    at Pool.<anonymous> (C:\vipdata\vipproject\2019projects\cms-api\node_modules\_pify@2.3.0@pify\index.js:12:10)
+    at Pool.ret [as query] (C:\vipdata\vipproject\2019projects\cms-api\node_modules\_pify@2.3.0@pify\index.js:56:34)
+    at RDSClient.proto._query (C:\vipdata\vipproject\2019projects\cms-api\node_modules\_ali-rds@3.3.0@ali-rds\lib\client.js:34:20)
+    at RDSClient.proto.query (C:\vipdata\vipproject\2019projects\cms-api\node_modules\_ali-rds@3.3.0@ali-rds\lib\operator.js:54:29)
+    at proto.query.next (<anonymous>)
+    at onFulfilled (C:\vipdata\vipproject\2019projects\cms-api\node_modules\_co@4.6.0@co\index.js:65:19)
+    at C:\vipdata\vipproject\2019projects\cms-api\node_modules\_co@4.6.0@co\index.js:54:5
+    sql: SELECT * FROM `user` WHERE `1` = '1' ORDER BY `id` DESC, `email` ASC LIMIT 3, 3
+code: "ER_BAD_FIELD_ERROR"
+errno: 1054
+sqlMessage: "Unknown column '1' in 'where clause'"
+sqlState: "42S22"
+index: 0
+sql: "SELECT * FROM `user` WHERE `1` = '1' ORDER BY `id` DESC, `email` ASC LIMIT 3, 3"
+name: "ER_BAD_FIELD_ERRORError"
+pid: 52808
+hostname: DESKTOP-DUAKF8G
+
+2019-08-07 21:51:41,728 ERROR 54252 [-/127.0.0.1/-/20ms GET /api/user?pageNum=2&pageSize=3&1=1] nodejs.ER_BAD_FIELD_ERRORError: ER_BAD_FIELD_ERROR: Unknown column '1' in 'where clause'
+    at Query.Sequence._packetToError (C:\vipdata\vipproject\2019projects\cms-api\node_modules\_mysql@2.17.1@mysql\lib\protocol\sequences\Sequence.js:47:14)
+    at Query.ErrorPacket (C:\vipdata\vipproject\2019projects\cms-api\node_modules\_mysql@2.17.1@mysql\lib\protocol\sequences\Query.js:77:18)
+    at Protocol._parsePacket (C:\vipdata\vipproject\2019projects\cms-api\node_modules\_mysql@2.17.1@mysql\lib\protocol\Protocol.js:291:23)
+    at Parser._parsePacket (C:\vipdata\vipproject\2019projects\cms-api\node_modules\_mysql@2.17.1@mysql\lib\protocol\Parser.js:433:10)
+    at Parser.write (C:\vipdata\vipproject\2019projects\cms-api\node_modules\_mysql@2.17.1@mysql\lib\protocol\Parser.js:43:10)
+    at Protocol.write (C:\vipdata\vipproject\2019projects\cms-api\node_modules\_mysql@2.17.1@mysql\lib\protocol\Protocol.js:38:16)
+    at Socket.<anonymous> (C:\vipdata\vipproject\2019projects\cms-api\node_modules\_mysql@2.17.1@mysql\lib\Connection.js:91:28)
+    at Socket.<anonymous> (C:\vipdata\vipproject\2019projects\cms-api\node_modules\_mysql@2.17.1@mysql\lib\Connection.js:525:10)
+    at Socket.emit (events.js:182:13)
+    at addChunk (_stream_readable.js:283:12)
+    --------------------
+    at Pool.query (C:\vipdata\vipproject\2019projects\cms-api\node_modules\_mysql@2.17.1@mysql\lib\Pool.js:199:23)
+    at C:\vipdata\vipproject\2019projects\cms-api\node_modules\_pify@2.3.0@pify\index.js:29:7
+    at new Promise (<anonymous>)
+    at Pool.<anonymous> (C:\vipdata\vipproject\2019projects\cms-api\node_modules\_pify@2.3.0@pify\index.js:12:10)
+    at Pool.ret [as query] (C:\vipdata\vipproject\2019projects\cms-api\node_modules\_pify@2.3.0@pify\index.js:56:34)
+    at RDSClient.proto._query (C:\vipdata\vipproject\2019projects\cms-api\node_modules\_ali-rds@3.3.0@ali-rds\lib\client.js:34:20)
+    at RDSClient.proto.query (C:\vipdata\vipproject\2019projects\cms-api\node_modules\_ali-rds@3.3.0@ali-rds\lib\operator.js:54:29)
+    at proto.query.next (<anonymous>)
+    at onFulfilled (C:\vipdata\vipproject\2019projects\cms-api\node_modules\_co@4.6.0@co\index.js:65:19)
+    at C:\vipdata\vipproject\2019projects\cms-api\node_modules\_co@4.6.0@co\index.js:54:5
+    sql: SELECT * FROM `user` WHERE `1` = '1' ORDER BY `id` DESC LIMIT 3, 3
+code: "ER_BAD_FIELD_ERROR"
+errno: 1054
+sqlMessage: "Unknown column '1' in 'where clause'"
+sqlState: "42S22"
+index: 0
+sql: "SELECT * FROM `user` WHERE `1` = '1' ORDER BY `id` DESC LIMIT 3, 3"
+name: "ER_BAD_FIELD_ERRORError"
+pid: 54252
+hostname: DESKTOP-DUAKF8G
+
+2019-08-07 21:52:40,629 ERROR 58912 [-/127.0.0.1/-/21ms GET /api/user?pageNum=2&pageSize=3&username=zhangsan] nodejs.ER_BAD_FIELD_ERRORError: ER_BAD_FIELD_ERROR: Unknown column 'where' in 'where clause'
+    at Query.Sequence._packetToError (C:\vipdata\vipproject\2019projects\cms-api\node_modules\_mysql@2.17.1@mysql\lib\protocol\sequences\Sequence.js:47:14)
+    at Query.ErrorPacket (C:\vipdata\vipproject\2019projects\cms-api\node_modules\_mysql@2.17.1@mysql\lib\protocol\sequences\Query.js:77:18)
+    at Protocol._parsePacket (C:\vipdata\vipproject\2019projects\cms-api\node_modules\_mysql@2.17.1@mysql\lib\protocol\Protocol.js:291:23)
+    at Parser._parsePacket (C:\vipdata\vipproject\2019projects\cms-api\node_modules\_mysql@2.17.1@mysql\lib\protocol\Parser.js:433:10)
+    at Parser.write (C:\vipdata\vipproject\2019projects\cms-api\node_modules\_mysql@2.17.1@mysql\lib\protocol\Parser.js:43:10)
+    at Protocol.write (C:\vipdata\vipproject\2019projects\cms-api\node_modules\_mysql@2.17.1@mysql\lib\protocol\Protocol.js:38:16)
+    at Socket.<anonymous> (C:\vipdata\vipproject\2019projects\cms-api\node_modules\_mysql@2.17.1@mysql\lib\Connection.js:91:28)
+    at Socket.<anonymous> (C:\vipdata\vipproject\2019projects\cms-api\node_modules\_mysql@2.17.1@mysql\lib\Connection.js:525:10)
+    at Socket.emit (events.js:182:13)
+    at addChunk (_stream_readable.js:283:12)
+    --------------------
+    at Pool.query (C:\vipdata\vipproject\2019projects\cms-api\node_modules\_mysql@2.17.1@mysql\lib\Pool.js:199:23)
+    at C:\vipdata\vipproject\2019projects\cms-api\node_modules\_pify@2.3.0@pify\index.js:29:7
+    at new Promise (<anonymous>)
+    at Pool.<anonymous> (C:\vipdata\vipproject\2019projects\cms-api\node_modules\_pify@2.3.0@pify\index.js:12:10)
+    at Pool.ret [as query] (C:\vipdata\vipproject\2019projects\cms-api\node_modules\_pify@2.3.0@pify\index.js:56:34)
+    at RDSClient.proto._query (C:\vipdata\vipproject\2019projects\cms-api\node_modules\_ali-rds@3.3.0@ali-rds\lib\client.js:34:20)
+    at RDSClient.proto.query (C:\vipdata\vipproject\2019projects\cms-api\node_modules\_ali-rds@3.3.0@ali-rds\lib\operator.js:54:29)
+    at proto.query.next (<anonymous>)
+    at onFulfilled (C:\vipdata\vipproject\2019projects\cms-api\node_modules\_co@4.6.0@co\index.js:65:19)
+    at C:\vipdata\vipproject\2019projects\cms-api\node_modules\_co@4.6.0@co\index.js:54:5
+    sql: SELECT COUNT(*) as count FROM `user` WHERE `where` = `username` = 'zhangsan'
+code: "ER_BAD_FIELD_ERROR"
+errno: 1054
+sqlMessage: "Unknown column 'where' in 'where clause'"
+sqlState: "42S22"
+index: 0
+sql: "SELECT COUNT(*) as count FROM `user` WHERE `where` = `username` = 'zhangsan'"
+name: "ER_BAD_FIELD_ERRORError"
+pid: 58912
+hostname: DESKTOP-DUAKF8G
+
+2019-08-07 21:53:57,112 ERROR 58912 [-/127.0.0.1/-/3679ms GET /api/user?pageNum=2&pageSize=3&username=zhangsan] nodejs.ER_BAD_FIELD_ERRORError: ER_BAD_FIELD_ERROR: Unknown column 'where' in 'where clause'
+    at Query.Sequence._packetToError (C:\vipdata\vipproject\2019projects\cms-api\node_modules\_mysql@2.17.1@mysql\lib\protocol\sequences\Sequence.js:47:14)
+    at Query.ErrorPacket (C:\vipdata\vipproject\2019projects\cms-api\node_modules\_mysql@2.17.1@mysql\lib\protocol\sequences\Query.js:77:18)
+    at Protocol._parsePacket (C:\vipdata\vipproject\2019projects\cms-api\node_modules\_mysql@2.17.1@mysql\lib\protocol\Protocol.js:291:23)
+    at Parser._parsePacket (C:\vipdata\vipproject\2019projects\cms-api\node_modules\_mysql@2.17.1@mysql\lib\protocol\Parser.js:433:10)
+    at Parser.write (C:\vipdata\vipproject\2019projects\cms-api\node_modules\_mysql@2.17.1@mysql\lib\protocol\Parser.js:43:10)
+    at Protocol.write (C:\vipdata\vipproject\2019projects\cms-api\node_modules\_mysql@2.17.1@mysql\lib\protocol\Protocol.js:38:16)
+    at Socket.<anonymous> (C:\vipdata\vipproject\2019projects\cms-api\node_modules\_mysql@2.17.1@mysql\lib\Connection.js:91:28)
+    at Socket.<anonymous> (C:\vipdata\vipproject\2019projects\cms-api\node_modules\_mysql@2.17.1@mysql\lib\Connection.js:525:10)
+    at Socket.emit (events.js:182:13)
+    at addChunk (_stream_readable.js:283:12)
+    --------------------
+    at Pool.query (C:\vipdata\vipproject\2019projects\cms-api\node_modules\_mysql@2.17.1@mysql\lib\Pool.js:199:23)
+    at C:\vipdata\vipproject\2019projects\cms-api\node_modules\_pify@2.3.0@pify\index.js:29:7
+    at new Promise (<anonymous>)
+    at Pool.<anonymous> (C:\vipdata\vipproject\2019projects\cms-api\node_modules\_pify@2.3.0@pify\index.js:12:10)
+    at Pool.ret [as query] (C:\vipdata\vipproject\2019projects\cms-api\node_modules\_pify@2.3.0@pify\index.js:56:34)
+    at RDSClient.proto._query (C:\vipdata\vipproject\2019projects\cms-api\node_modules\_ali-rds@3.3.0@ali-rds\lib\client.js:34:20)
+    at RDSClient.proto.query (C:\vipdata\vipproject\2019projects\cms-api\node_modules\_ali-rds@3.3.0@ali-rds\lib\operator.js:54:29)
+    at proto.query.next (<anonymous>)
+    at onFulfilled (C:\vipdata\vipproject\2019projects\cms-api\node_modules\_co@4.6.0@co\index.js:65:19)
+    at C:\vipdata\vipproject\2019projects\cms-api\node_modules\_co@4.6.0@co\index.js:54:5
+    sql: SELECT COUNT(*) as count FROM `user` WHERE `where` = `username` = 'zhangsan'
+code: "ER_BAD_FIELD_ERROR"
+errno: 1054
+sqlMessage: "Unknown column 'where' in 'where clause'"
+sqlState: "42S22"
+index: 0
+sql: "SELECT COUNT(*) as count FROM `user` WHERE `where` = `username` = 'zhangsan'"
+name: "ER_BAD_FIELD_ERRORError"
+pid: 58912
+hostname: DESKTOP-DUAKF8G
+
+2019-08-07 21:54:25,741 ERROR 21552 [-/127.0.0.1/-/18ms GET /api/user?pageNum=2&pageSize=3&username=zhangsan] nodejs.ER_BAD_FIELD_ERRORError: ER_BAD_FIELD_ERROR: Unknown column 'where' in 'where clause'
+    at Query.Sequence._packetToError (C:\vipdata\vipproject\2019projects\cms-api\node_modules\_mysql@2.17.1@mysql\lib\protocol\sequences\Sequence.js:47:14)
+    at Query.ErrorPacket (C:\vipdata\vipproject\2019projects\cms-api\node_modules\_mysql@2.17.1@mysql\lib\protocol\sequences\Query.js:77:18)
+    at Protocol._parsePacket (C:\vipdata\vipproject\2019projects\cms-api\node_modules\_mysql@2.17.1@mysql\lib\protocol\Protocol.js:291:23)
+    at Parser._parsePacket (C:\vipdata\vipproject\2019projects\cms-api\node_modules\_mysql@2.17.1@mysql\lib\protocol\Parser.js:433:10)
+    at Parser.write (C:\vipdata\vipproject\2019projects\cms-api\node_modules\_mysql@2.17.1@mysql\lib\protocol\Parser.js:43:10)
+    at Protocol.write (C:\vipdata\vipproject\2019projects\cms-api\node_modules\_mysql@2.17.1@mysql\lib\protocol\Protocol.js:38:16)
+    at Socket.<anonymous> (C:\vipdata\vipproject\2019projects\cms-api\node_modules\_mysql@2.17.1@mysql\lib\Connection.js:91:28)
+    at Socket.<anonymous> (C:\vipdata\vipproject\2019projects\cms-api\node_modules\_mysql@2.17.1@mysql\lib\Connection.js:525:10)
+    at Socket.emit (events.js:182:13)
+    at addChunk (_stream_readable.js:283:12)
+    --------------------
+    at Pool.query (C:\vipdata\vipproject\2019projects\cms-api\node_modules\_mysql@2.17.1@mysql\lib\Pool.js:199:23)
+    at C:\vipdata\vipproject\2019projects\cms-api\node_modules\_pify@2.3.0@pify\index.js:29:7
+    at new Promise (<anonymous>)
+    at Pool.<anonymous> (C:\vipdata\vipproject\2019projects\cms-api\node_modules\_pify@2.3.0@pify\index.js:12:10)
+    at Pool.ret [as query] (C:\vipdata\vipproject\2019projects\cms-api\node_modules\_pify@2.3.0@pify\index.js:56:34)
+    at RDSClient.proto._query (C:\vipdata\vipproject\2019projects\cms-api\node_modules\_ali-rds@3.3.0@ali-rds\lib\client.js:34:20)
+    at RDSClient.proto.query (C:\vipdata\vipproject\2019projects\cms-api\node_modules\_ali-rds@3.3.0@ali-rds\lib\operator.js:54:29)
+    at proto.query.next (<anonymous>)
+    at onFulfilled (C:\vipdata\vipproject\2019projects\cms-api\node_modules\_co@4.6.0@co\index.js:65:19)
+    at C:\vipdata\vipproject\2019projects\cms-api\node_modules\_co@4.6.0@co\index.js:54:5
+    sql: SELECT COUNT(*) as count FROM `user` WHERE `where` = `username` = 'zhangsan'
+code: "ER_BAD_FIELD_ERROR"
+errno: 1054
+sqlMessage: "Unknown column 'where' in 'where clause'"
+sqlState: "42S22"
+index: 0
+sql: "SELECT COUNT(*) as count FROM `user` WHERE `where` = `username` = 'zhangsan'"
+name: "ER_BAD_FIELD_ERRORError"
+pid: 21552
+hostname: DESKTOP-DUAKF8G
+
+2019-08-07 21:54:37,760 ERROR 33648 [-/127.0.0.1/-/11ms GET /api/user?pageNum=2&pageSize=3&username=zhangsan] nodejs.ER_BAD_FIELD_ERRORError: ER_BAD_FIELD_ERROR: Unknown column 'where' in 'where clause'
+    at Query.Sequence._packetToError (C:\vipdata\vipproject\2019projects\cms-api\node_modules\_mysql@2.17.1@mysql\lib\protocol\sequences\Sequence.js:47:14)
+    at Query.ErrorPacket (C:\vipdata\vipproject\2019projects\cms-api\node_modules\_mysql@2.17.1@mysql\lib\protocol\sequences\Query.js:77:18)
+    at Protocol._parsePacket (C:\vipdata\vipproject\2019projects\cms-api\node_modules\_mysql@2.17.1@mysql\lib\protocol\Protocol.js:291:23)
+    at Parser._parsePacket (C:\vipdata\vipproject\2019projects\cms-api\node_modules\_mysql@2.17.1@mysql\lib\protocol\Parser.js:433:10)
+    at Parser.write (C:\vipdata\vipproject\2019projects\cms-api\node_modules\_mysql@2.17.1@mysql\lib\protocol\Parser.js:43:10)
+    at Protocol.write (C:\vipdata\vipproject\2019projects\cms-api\node_modules\_mysql@2.17.1@mysql\lib\protocol\Protocol.js:38:16)
+    at Socket.<anonymous> (C:\vipdata\vipproject\2019projects\cms-api\node_modules\_mysql@2.17.1@mysql\lib\Connection.js:91:28)
+    at Socket.<anonymous> (C:\vipdata\vipproject\2019projects\cms-api\node_modules\_mysql@2.17.1@mysql\lib\Connection.js:525:10)
+    at Socket.emit (events.js:182:13)
+    at addChunk (_stream_readable.js:283:12)
+    --------------------
+    at Pool.query (C:\vipdata\vipproject\2019projects\cms-api\node_modules\_mysql@2.17.1@mysql\lib\Pool.js:199:23)
+    at C:\vipdata\vipproject\2019projects\cms-api\node_modules\_pify@2.3.0@pify\index.js:29:7
+    at new Promise (<anonymous>)
+    at Pool.<anonymous> (C:\vipdata\vipproject\2019projects\cms-api\node_modules\_pify@2.3.0@pify\index.js:12:10)
+    at Pool.ret [as query] (C:\vipdata\vipproject\2019projects\cms-api\node_modules\_pify@2.3.0@pify\index.js:56:34)
+    at RDSClient.proto._query (C:\vipdata\vipproject\2019projects\cms-api\node_modules\_ali-rds@3.3.0@ali-rds\lib\client.js:34:20)
+    at RDSClient.proto.query (C:\vipdata\vipproject\2019projects\cms-api\node_modules\_ali-rds@3.3.0@ali-rds\lib\operator.js:54:29)
+    at proto.query.next (<anonymous>)
+    at onFulfilled (C:\vipdata\vipproject\2019projects\cms-api\node_modules\_co@4.6.0@co\index.js:65:19)
+    at C:\vipdata\vipproject\2019projects\cms-api\node_modules\_co@4.6.0@co\index.js:54:5
+    sql: SELECT COUNT(*) as count FROM `user` WHERE `where` = `username` = 'zhangsan'
+code: "ER_BAD_FIELD_ERROR"
+errno: 1054
+sqlMessage: "Unknown column 'where' in 'where clause'"
+sqlState: "42S22"
+index: 0
+sql: "SELECT COUNT(*) as count FROM `user` WHERE `where` = `username` = 'zhangsan'"
+name: "ER_BAD_FIELD_ERRORError"
+pid: 33648
+hostname: DESKTOP-DUAKF8G
+
+2019-08-07 21:55:32,358 ERROR 56908 [-/127.0.0.1/-/25ms GET /api/user?pageNum=2&pageSize=3&username=zhangsan] nodejs.ER_BAD_FIELD_ERRORError: ER_BAD_FIELD_ERROR: Unknown column 'where' in 'where clause'
+    at Query.Sequence._packetToError (C:\vipdata\vipproject\2019projects\cms-api\node_modules\_mysql@2.17.1@mysql\lib\protocol\sequences\Sequence.js:47:14)
+    at Query.ErrorPacket (C:\vipdata\vipproject\2019projects\cms-api\node_modules\_mysql@2.17.1@mysql\lib\protocol\sequences\Query.js:77:18)
+    at Protocol._parsePacket (C:\vipdata\vipproject\2019projects\cms-api\node_modules\_mysql@2.17.1@mysql\lib\protocol\Protocol.js:291:23)
+    at Parser._parsePacket (C:\vipdata\vipproject\2019projects\cms-api\node_modules\_mysql@2.17.1@mysql\lib\protocol\Parser.js:433:10)
+    at Parser.write (C:\vipdata\vipproject\2019projects\cms-api\node_modules\_mysql@2.17.1@mysql\lib\protocol\Parser.js:43:10)
+    at Protocol.write (C:\vipdata\vipproject\2019projects\cms-api\node_modules\_mysql@2.17.1@mysql\lib\protocol\Protocol.js:38:16)
+    at Socket.<anonymous> (C:\vipdata\vipproject\2019projects\cms-api\node_modules\_mysql@2.17.1@mysql\lib\Connection.js:91:28)
+    at Socket.<anonymous> (C:\vipdata\vipproject\2019projects\cms-api\node_modules\_mysql@2.17.1@mysql\lib\Connection.js:525:10)
+    at Socket.emit (events.js:182:13)
+    at addChunk (_stream_readable.js:283:12)
+    --------------------
+    at Pool.query (C:\vipdata\vipproject\2019projects\cms-api\node_modules\_mysql@2.17.1@mysql\lib\Pool.js:199:23)
+    at C:\vipdata\vipproject\2019projects\cms-api\node_modules\_pify@2.3.0@pify\index.js:29:7
+    at new Promise (<anonymous>)
+    at Pool.<anonymous> (C:\vipdata\vipproject\2019projects\cms-api\node_modules\_pify@2.3.0@pify\index.js:12:10)
+    at Pool.ret [as query] (C:\vipdata\vipproject\2019projects\cms-api\node_modules\_pify@2.3.0@pify\index.js:56:34)
+    at RDSClient.proto._query (C:\vipdata\vipproject\2019projects\cms-api\node_modules\_ali-rds@3.3.0@ali-rds\lib\client.js:34:20)
+    at RDSClient.proto.query (C:\vipdata\vipproject\2019projects\cms-api\node_modules\_ali-rds@3.3.0@ali-rds\lib\operator.js:54:29)
+    at proto.query.next (<anonymous>)
+    at onFulfilled (C:\vipdata\vipproject\2019projects\cms-api\node_modules\_co@4.6.0@co\index.js:65:19)
+    at C:\vipdata\vipproject\2019projects\cms-api\node_modules\_co@4.6.0@co\index.js:54:5
+    sql: SELECT COUNT(*) as count FROM `user` WHERE `where` = `username` = 'zhangsan'
+code: "ER_BAD_FIELD_ERROR"
+errno: 1054
+sqlMessage: "Unknown column 'where' in 'where clause'"
+sqlState: "42S22"
+index: 0
+sql: "SELECT COUNT(*) as count FROM `user` WHERE `where` = `username` = 'zhangsan'"
+name: "ER_BAD_FIELD_ERRORError"
+pid: 56908
+hostname: DESKTOP-DUAKF8G
+
+2019-08-18 10:33:44,675 ERROR 20108 [-/127.0.0.1/-/30ms POST /api/signin] nodejs.ER_BAD_FIELD_ERRORError: ER_BAD_FIELD_ERROR: Unknown column 'prefix' in 'where clause'
+    at Query.Sequence._packetToError (C:\vipdata\vipproject\2019projects\cms-api\node_modules\_mysql@2.17.1@mysql\lib\protocol\sequences\Sequence.js:47:14)
+    at Query.ErrorPacket (C:\vipdata\vipproject\2019projects\cms-api\node_modules\_mysql@2.17.1@mysql\lib\protocol\sequences\Query.js:77:18)
+    at Protocol._parsePacket (C:\vipdata\vipproject\2019projects\cms-api\node_modules\_mysql@2.17.1@mysql\lib\protocol\Protocol.js:291:23)
+    at Parser._parsePacket (C:\vipdata\vipproject\2019projects\cms-api\node_modules\_mysql@2.17.1@mysql\lib\protocol\Parser.js:433:10)
+    at Parser.write (C:\vipdata\vipproject\2019projects\cms-api\node_modules\_mysql@2.17.1@mysql\lib\protocol\Parser.js:43:10)
+    at Protocol.write (C:\vipdata\vipproject\2019projects\cms-api\node_modules\_mysql@2.17.1@mysql\lib\protocol\Protocol.js:38:16)
+    at Socket.<anonymous> (C:\vipdata\vipproject\2019projects\cms-api\node_modules\_mysql@2.17.1@mysql\lib\Connection.js:91:28)
+    at Socket.<anonymous> (C:\vipdata\vipproject\2019projects\cms-api\node_modules\_mysql@2.17.1@mysql\lib\Connection.js:525:10)
+    at Socket.emit (events.js:203:13)
+    at addChunk (_stream_readable.js:295:12)
+    --------------------
+    at Pool.query (C:\vipdata\vipproject\2019projects\cms-api\node_modules\_mysql@2.17.1@mysql\lib\Pool.js:199:23)
+    at C:\vipdata\vipproject\2019projects\cms-api\node_modules\_pify@2.3.0@pify\index.js:29:7
+    at new Promise (<anonymous>)
+    at Pool.<anonymous> (C:\vipdata\vipproject\2019projects\cms-api\node_modules\_pify@2.3.0@pify\index.js:12:10)
+    at Pool.ret [as query] (C:\vipdata\vipproject\2019projects\cms-api\node_modules\_pify@2.3.0@pify\index.js:56:34)
+    at RDSClient.proto._query (C:\vipdata\vipproject\2019projects\cms-api\node_modules\_ali-rds@3.3.0@ali-rds\lib\client.js:34:20)
+    at RDSClient.proto.query (C:\vipdata\vipproject\2019projects\cms-api\node_modules\_ali-rds@3.3.0@ali-rds\lib\operator.js:54:29)
+    at proto.query.next (<anonymous>)
+    at onFulfilled (C:\vipdata\vipproject\2019projects\cms-api\node_modules\_co@4.6.0@co\index.js:65:19)
+    at C:\vipdata\vipproject\2019projects\cms-api\node_modules\_co@4.6.0@co\index.js:54:5
+    sql: SELECT * FROM `user` WHERE `username` = '2' AND `password` = '222' AND `prefix` = '086' LIMIT 0, 1
+code: "ER_BAD_FIELD_ERROR"
+errno: 1054
+sqlMessage: "Unknown column 'prefix' in 'where clause'"
+sqlState: "42S22"
+index: 0
+sql: "SELECT * FROM `user` WHERE `username` = '2' AND `password` = '222' AND `prefix` = '086' LIMIT 0, 1"
+headers: {"Access-Control-Allow-Origin":"http://127.0.0.1:8000","Access-Control-Allow-Credentials":"true","vary":"Origin"}
+name: "ER_BAD_FIELD_ERRORError"
+pid: 20108
+hostname: DESKTOP-DUAKF8G
+
+2019-08-18 17:15:21,807 ERROR 12744 [-/127.0.0.1/-/7ms GET /api/user?pageNum=1&username=74] nodejs.ReferenceError: field is not defined
+    at UserService.select (C:\vipdata\vipproject\2019projects\cms-api\app\service\base.js:16:34)
+    at UserController.index (C:\vipdata\vipproject\2019projects\cms-api\app\controller\base.js:16:45)
+    at Object.callFn (C:\vipdata\vipproject\2019projects\cms-api\node_modules\_egg-core@4.17.3@egg-core\lib\utils\index.js:44:21)
+    at Object.classControllerMiddleware (C:\vipdata\vipproject\2019projects\cms-api\node_modules\_egg-core@4.17.3@egg-core\lib\loader\mixin\controller.js:87:20)
+    at Object.callFn (C:\vipdata\vipproject\2019projects\cms-api\node_modules\_@eggjs_router@2.0.0@@eggjs\router\lib\utils.js:12:21)
+    at wrappedController (C:\vipdata\vipproject\2019projects\cms-api\node_modules\_@eggjs_router@2.0.0@@eggjs\router\lib\egg_router.js:322:18)
+    at dispatch (C:\vipdata\vipproject\2019projects\cms-api\node_modules\_koa-compose@3.2.1@koa-compose\index.js:44:32)
+    at next (C:\vipdata\vipproject\2019projects\cms-api\node_modules\_koa-compose@3.2.1@koa-compose\index.js:45:18)
+    at C:\vipdata\vipproject\2019projects\cms-api\node_modules\_@eggjs_router@2.0.0@@eggjs\router\lib\router.js:190:18
+    at dispatch (C:\vipdata\vipproject\2019projects\cms-api\node_modules\_koa-compose@3.2.1@koa-compose\index.js:44:32)
+headers: {"Access-Control-Allow-Origin":"http://127.0.0.1:8000","Access-Control-Allow-Credentials":"true","vary":"Origin"}
+pid: 12744
+hostname: DESKTOP-DUAKF8G
+
+2019-08-18 17:15:21,817 ERROR 12744 [-/127.0.0.1/-/2ms GET /api/user?pageNum=1&username=4] nodejs.ReferenceError: field is not defined
+    at UserService.select (C:\vipdata\vipproject\2019projects\cms-api\app\service\base.js:16:34)
+    at UserController.index (C:\vipdata\vipproject\2019projects\cms-api\app\controller\base.js:16:45)
+    at Object.callFn (C:\vipdata\vipproject\2019projects\cms-api\node_modules\_egg-core@4.17.3@egg-core\lib\utils\index.js:44:21)
+    at Object.classControllerMiddleware (C:\vipdata\vipproject\2019projects\cms-api\node_modules\_egg-core@4.17.3@egg-core\lib\loader\mixin\controller.js:87:20)
+    at Object.callFn (C:\vipdata\vipproject\2019projects\cms-api\node_modules\_@eggjs_router@2.0.0@@eggjs\router\lib\utils.js:12:21)
+    at wrappedController (C:\vipdata\vipproject\2019projects\cms-api\node_modules\_@eggjs_router@2.0.0@@eggjs\router\lib\egg_router.js:322:18)
+    at dispatch (C:\vipdata\vipproject\2019projects\cms-api\node_modules\_koa-compose@3.2.1@koa-compose\index.js:44:32)
+    at next (C:\vipdata\vipproject\2019projects\cms-api\node_modules\_koa-compose@3.2.1@koa-compose\index.js:45:18)
+    at C:\vipdata\vipproject\2019projects\cms-api\node_modules\_@eggjs_router@2.0.0@@eggjs\router\lib\router.js:190:18
+    at dispatch (C:\vipdata\vipproject\2019projects\cms-api\node_modules\_koa-compose@3.2.1@koa-compose\index.js:44:32)
+headers: {"Access-Control-Allow-Origin":"http://127.0.0.1:8000","Access-Control-Allow-Credentials":"true","vary":"Origin"}
+pid: 12744
+hostname: DESKTOP-DUAKF8G
+
+2019-08-18 17:15:21,821 ERROR 12744 [-/127.0.0.1/-/0ms GET /api/user?pageNum=1&username=4] nodejs.ReferenceError: field is not defined
+    at UserService.select (C:\vipdata\vipproject\2019projects\cms-api\app\service\base.js:16:34)
+    at UserController.index (C:\vipdata\vipproject\2019projects\cms-api\app\controller\base.js:16:45)
+    at Object.callFn (C:\vipdata\vipproject\2019projects\cms-api\node_modules\_egg-core@4.17.3@egg-core\lib\utils\index.js:44:21)
+    at Object.classControllerMiddleware (C:\vipdata\vipproject\2019projects\cms-api\node_modules\_egg-core@4.17.3@egg-core\lib\loader\mixin\controller.js:87:20)
+    at Object.callFn (C:\vipdata\vipproject\2019projects\cms-api\node_modules\_@eggjs_router@2.0.0@@eggjs\router\lib\utils.js:12:21)
+    at wrappedController (C:\vipdata\vipproject\2019projects\cms-api\node_modules\_@eggjs_router@2.0.0@@eggjs\router\lib\egg_router.js:322:18)
+    at dispatch (C:\vipdata\vipproject\2019projects\cms-api\node_modules\_koa-compose@3.2.1@koa-compose\index.js:44:32)
+    at next (C:\vipdata\vipproject\2019projects\cms-api\node_modules\_koa-compose@3.2.1@koa-compose\index.js:45:18)
+    at C:\vipdata\vipproject\2019projects\cms-api\node_modules\_@eggjs_router@2.0.0@@eggjs\router\lib\router.js:190:18
+    at dispatch (C:\vipdata\vipproject\2019projects\cms-api\node_modules\_koa-compose@3.2.1@koa-compose\index.js:44:32)
+headers: {"Access-Control-Allow-Origin":"http://127.0.0.1:8000","Access-Control-Allow-Credentials":"true","vary":"Origin"}
+pid: 12744
+hostname: DESKTOP-DUAKF8G
+
+2019-08-18 17:18:12,907 ERROR 29480 [-/127.0.0.1/-/18ms GET /api/user?pageNum=1&username=4] nodejs.ReferenceError: total is not defined
+    at UserService.select (C:\vipdata\vipproject\2019projects\cms-api\app\service\base.js:26:19)
+    at processTicksAndRejections (internal/process/task_queues.js:85:5)
+    at async UserController.index (C:\vipdata\vipproject\2019projects\cms-api\app\controller\base.js:16:18)
+    at async C:\vipdata\vipproject\2019projects\cms-api\node_modules\_egg-development@2.4.3@egg-development\app\middleware\egg_loader_trace.js:9:50
+    at async xframe (C:\vipdata\vipproject\2019projects\cms-api\node_modules\_egg-security@2.6.1@egg-security\lib\middlewares\xframe.js:7:5)
+    at async xssProtection (C:\vipdata\vipproject\2019projects\cms-api\node_modules\_egg-security@2.6.1@egg-security\lib\middlewares\xssProtection.js:7:5)
+    at async nosniff (C:\vipdata\vipproject\2019projects\cms-api\node_modules\_egg-security@2.6.1@egg-security\lib\middlewares\nosniff.js:8:5)
+    at async noopen (C:\vipdata\vipproject\2019projects\cms-api\node_modules\_egg-security@2.6.1@egg-security\lib\middlewares\noopen.js:8:5)
+    at async session (C:\vipdata\vipproject\2019projects\cms-api\node_modules\_koa-session@5.12.2@koa-session\index.js:41:7)
+    at async bodyParser (C:\vipdata\vipproject\2019projects\cms-api\node_modules\_koa-bodyparser@4.2.1@koa-bodyparser\index.js:86:5)
+headers: {"Access-Control-Allow-Origin":"http://127.0.0.1:8000","Access-Control-Allow-Credentials":"true","vary":"Origin"}
+pid: 29480
+hostname: DESKTOP-DUAKF8G
+
+2019-08-18 17:19:05,499 ERROR 29480 [-/127.0.0.1/-/21074ms GET /api/user?pageNum=1&username=4] nodejs.ReferenceError: total is not defined
+    at UserService.select (C:\vipdata\vipproject\2019projects\cms-api\app\service\base.js:26:19)
+    at processTicksAndRejections (internal/process/task_queues.js:85:5)
+    at async UserController.index (C:\vipdata\vipproject\2019projects\cms-api\app\controller\base.js:16:18)
+    at async C:\vipdata\vipproject\2019projects\cms-api\node_modules\_egg-development@2.4.3@egg-development\app\middleware\egg_loader_trace.js:9:50
+    at async xframe (C:\vipdata\vipproject\2019projects\cms-api\node_modules\_egg-security@2.6.1@egg-security\lib\middlewares\xframe.js:7:5)
+    at async xssProtection (C:\vipdata\vipproject\2019projects\cms-api\node_modules\_egg-security@2.6.1@egg-security\lib\middlewares\xssProtection.js:7:5)
+    at async nosniff (C:\vipdata\vipproject\2019projects\cms-api\node_modules\_egg-security@2.6.1@egg-security\lib\middlewares\nosniff.js:8:5)
+    at async noopen (C:\vipdata\vipproject\2019projects\cms-api\node_modules\_egg-security@2.6.1@egg-security\lib\middlewares\noopen.js:8:5)
+    at async session (C:\vipdata\vipproject\2019projects\cms-api\node_modules\_koa-session@5.12.2@koa-session\index.js:41:7)
+    at async bodyParser (C:\vipdata\vipproject\2019projects\cms-api\node_modules\_koa-bodyparser@4.2.1@koa-bodyparser\index.js:86:5)
+headers: {"Access-Control-Allow-Origin":"http://127.0.0.1:8000","Access-Control-Allow-Credentials":"true","vary":"Origin"}
+pid: 29480
+hostname: DESKTOP-DUAKF8G
+
+2019-08-18 17:19:05,520 ERROR 29480 [-/127.0.0.1/-/12ms GET /api/user?pageNum=1&username=4] nodejs.ReferenceError: total is not defined
+    at UserService.select (C:\vipdata\vipproject\2019projects\cms-api\app\service\base.js:26:19)
+    at processTicksAndRejections (internal/process/task_queues.js:85:5)
+    at async UserController.index (C:\vipdata\vipproject\2019projects\cms-api\app\controller\base.js:16:18)
+    at async C:\vipdata\vipproject\2019projects\cms-api\node_modules\_egg-development@2.4.3@egg-development\app\middleware\egg_loader_trace.js:9:50
+    at async xframe (C:\vipdata\vipproject\2019projects\cms-api\node_modules\_egg-security@2.6.1@egg-security\lib\middlewares\xframe.js:7:5)
+    at async xssProtection (C:\vipdata\vipproject\2019projects\cms-api\node_modules\_egg-security@2.6.1@egg-security\lib\middlewares\xssProtection.js:7:5)
+    at async nosniff (C:\vipdata\vipproject\2019projects\cms-api\node_modules\_egg-security@2.6.1@egg-security\lib\middlewares\nosniff.js:8:5)
+    at async noopen (C:\vipdata\vipproject\2019projects\cms-api\node_modules\_egg-security@2.6.1@egg-security\lib\middlewares\noopen.js:8:5)
+    at async session (C:\vipdata\vipproject\2019projects\cms-api\node_modules\_koa-session@5.12.2@koa-session\index.js:41:7)
+    at async bodyParser (C:\vipdata\vipproject\2019projects\cms-api\node_modules\_koa-bodyparser@4.2.1@koa-bodyparser\index.js:86:5)
+headers: {"Access-Control-Allow-Origin":"http://127.0.0.1:8000","Access-Control-Allow-Credentials":"true","vary":"Origin"}
+pid: 29480
+hostname: DESKTOP-DUAKF8G
+
+2019-08-18 17:19:05,541 ERROR 29480 [-/127.0.0.1/-/61ms GET /api/user?pageNum=1&=] nodejs.ReferenceError: total is not defined
+    at UserService.select (C:\vipdata\vipproject\2019projects\cms-api\app\service\base.js:26:19)
+    at processTicksAndRejections (internal/process/task_queues.js:85:5)
+    at async UserController.index (C:\vipdata\vipproject\2019projects\cms-api\app\controller\base.js:16:18)
+    at async C:\vipdata\vipproject\2019projects\cms-api\node_modules\_egg-development@2.4.3@egg-development\app\middleware\egg_loader_trace.js:9:50
+    at async xframe (C:\vipdata\vipproject\2019projects\cms-api\node_modules\_egg-security@2.6.1@egg-security\lib\middlewares\xframe.js:7:5)
+    at async xssProtection (C:\vipdata\vipproject\2019projects\cms-api\node_modules\_egg-security@2.6.1@egg-security\lib\middlewares\xssProtection.js:7:5)
+    at async nosniff (C:\vipdata\vipproject\2019projects\cms-api\node_modules\_egg-security@2.6.1@egg-security\lib\middlewares\nosniff.js:8:5)
+    at async noopen (C:\vipdata\vipproject\2019projects\cms-api\node_modules\_egg-security@2.6.1@egg-security\lib\middlewares\noopen.js:8:5)
+    at async session (C:\vipdata\vipproject\2019projects\cms-api\node_modules\_koa-session@5.12.2@koa-session\index.js:41:7)
+    at async bodyParser (C:\vipdata\vipproject\2019projects\cms-api\node_modules\_koa-bodyparser@4.2.1@koa-bodyparser\index.js:86:5)
+headers: {"Access-Control-Allow-Origin":"http://127.0.0.1:8000","Access-Control-Allow-Credentials":"true","vary":"Origin"}
+pid: 29480
+hostname: DESKTOP-DUAKF8G
+
+2019-08-18 17:19:05,557 ERROR 29480 [-/127.0.0.1/-/11ms GET /api/user?pageNum=1&=] nodejs.ReferenceError: total is not defined
+    at UserService.select (C:\vipdata\vipproject\2019projects\cms-api\app\service\base.js:26:19)
+    at processTicksAndRejections (internal/process/task_queues.js:85:5)
+    at async UserController.index (C:\vipdata\vipproject\2019projects\cms-api\app\controller\base.js:16:18)
+    at async C:\vipdata\vipproject\2019projects\cms-api\node_modules\_egg-development@2.4.3@egg-development\app\middleware\egg_loader_trace.js:9:50
+    at async xframe (C:\vipdata\vipproject\2019projects\cms-api\node_modules\_egg-security@2.6.1@egg-security\lib\middlewares\xframe.js:7:5)
+    at async xssProtection (C:\vipdata\vipproject\2019projects\cms-api\node_modules\_egg-security@2.6.1@egg-security\lib\middlewares\xssProtection.js:7:5)
+    at async nosniff (C:\vipdata\vipproject\2019projects\cms-api\node_modules\_egg-security@2.6.1@egg-security\lib\middlewares\nosniff.js:8:5)
+    at async noopen (C:\vipdata\vipproject\2019projects\cms-api\node_modules\_egg-security@2.6.1@egg-security\lib\middlewares\noopen.js:8:5)
+    at async session (C:\vipdata\vipproject\2019projects\cms-api\node_modules\_koa-session@5.12.2@koa-session\index.js:41:7)
+    at async bodyParser (C:\vipdata\vipproject\2019projects\cms-api\node_modules\_koa-bodyparser@4.2.1@koa-bodyparser\index.js:86:5)
+headers: {"Access-Control-Allow-Origin":"http://127.0.0.1:8000","Access-Control-Allow-Credentials":"true","vary":"Origin"}
+pid: 29480
+hostname: DESKTOP-DUAKF8G
+
+2023-05-24 13:35:10,717 ERROR 55964 [-/127.0.0.1/-/0ms GET /] nodejs.ECONNREFUSEDError: connect ECONNREFUSED 127.0.0.1:3306
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1247:16)
+    --------------------
+    at Protocol._enqueue (/Users/superyang/Downloads/cms-api/node_modules/mysql/lib/protocol/Protocol.js:144:48)
+    at Protocol.handshake (/Users/superyang/Downloads/cms-api/node_modules/mysql/lib/protocol/Protocol.js:51:23)
+    at PoolConnection.connect (/Users/superyang/Downloads/cms-api/node_modules/mysql/lib/Connection.js:116:18)
+    at Pool.getConnection (/Users/superyang/Downloads/cms-api/node_modules/mysql/lib/Pool.js:48:16)
+    at node:internal/util:361:7
+    at new Promise (<anonymous>)
+    at Pool.getConnection (node:internal/util:347:12)
+    at Pool.query (/Users/superyang/Downloads/cms-api/node_modules/mysql/lib/Pool.js:202:8)
+    at node:internal/util:361:7
+    at new Promise (<anonymous>)
+    sql: select now() as currentTime;
+errno: -61
+code: "ECONNREFUSED"
+syscall: "connect"
+address: "127.0.0.1"
+port: 3306
+fatal: true
+name: "ECONNREFUSEDError"
+pid: 55964
+hostname: superyangdeMacBook-Pro.local
+
+2023-06-25 09:58:43,266 ERROR 90406 [-/127.0.0.1/-/1ms GET /] nodejs.ER_ACCESS_DENIED_ERRORError: ER_ACCESS_DENIED_ERROR: Access denied for user 'root'@'localhost' (using password: YES)
+    at Handshake.Sequence._packetToError (/Users/superyang/Downloads/cms-api/node_modules/mysql/lib/protocol/sequences/Sequence.js:47:14)
+    at Handshake.ErrorPacket (/Users/superyang/Downloads/cms-api/node_modules/mysql/lib/protocol/sequences/Handshake.js:123:18)
+    at Protocol._parsePacket (/Users/superyang/Downloads/cms-api/node_modules/mysql/lib/protocol/Protocol.js:291:23)
+    at Parser._parsePacket (/Users/superyang/Downloads/cms-api/node_modules/mysql/lib/protocol/Parser.js:433:10)
+    at Parser.write (/Users/superyang/Downloads/cms-api/node_modules/mysql/lib/protocol/Parser.js:43:10)
+    at Protocol.write (/Users/superyang/Downloads/cms-api/node_modules/mysql/lib/protocol/Protocol.js:38:16)
+    at Socket.<anonymous> (/Users/superyang/Downloads/cms-api/node_modules/mysql/lib/Connection.js:88:28)
+    at Socket.<anonymous> (/Users/superyang/Downloads/cms-api/node_modules/mysql/lib/Connection.js:526:10)
+    at Socket.emit (node:events:513:28)
+    at addChunk (node:internal/streams/readable:315:12)
+    --------------------
+    at Protocol._enqueue (/Users/superyang/Downloads/cms-api/node_modules/mysql/lib/protocol/Protocol.js:144:48)
+    at Protocol.handshake (/Users/superyang/Downloads/cms-api/node_modules/mysql/lib/protocol/Protocol.js:51:23)
+    at PoolConnection.connect (/Users/superyang/Downloads/cms-api/node_modules/mysql/lib/Connection.js:116:18)
+    at Pool.getConnection (/Users/superyang/Downloads/cms-api/node_modules/mysql/lib/Pool.js:48:16)
+    at node:internal/util:361:7
+    at new Promise (<anonymous>)
+    at Pool.getConnection (node:internal/util:347:12)
+    at Pool.query (/Users/superyang/Downloads/cms-api/node_modules/mysql/lib/Pool.js:202:8)
+    at node:internal/util:361:7
+    at new Promise (<anonymous>)
+    sql: select now() as currentTime;
+code: "ER_ACCESS_DENIED_ERROR"
+errno: 1045
+sqlMessage: "Access denied for user 'root'@'localhost' (using password: YES)"
+sqlState: "28000"
+fatal: true
+name: "ER_ACCESS_DENIED_ERRORError"
+pid: 90406
+hostname: superyangdeMacBook-Pro.local
+
+2023-06-25 10:05:22,052 ERROR 90755 [-/127.0.0.1/-/0ms GET /] nodejs.ER_BAD_DB_ERRORError: ER_BAD_DB_ERROR: Unknown database 'cms'
+    at Handshake.Sequence._packetToError (/Users/superyang/Downloads/cms-api/node_modules/mysql/lib/protocol/sequences/Sequence.js:47:14)
+    at Handshake.ErrorPacket (/Users/superyang/Downloads/cms-api/node_modules/mysql/lib/protocol/sequences/Handshake.js:123:18)
+    at Protocol._parsePacket (/Users/superyang/Downloads/cms-api/node_modules/mysql/lib/protocol/Protocol.js:291:23)
+    at Parser._parsePacket (/Users/superyang/Downloads/cms-api/node_modules/mysql/lib/protocol/Parser.js:433:10)
+    at Parser.write (/Users/superyang/Downloads/cms-api/node_modules/mysql/lib/protocol/Parser.js:43:10)
+    at Protocol.write (/Users/superyang/Downloads/cms-api/node_modules/mysql/lib/protocol/Protocol.js:38:16)
+    at Socket.<anonymous> (/Users/superyang/Downloads/cms-api/node_modules/mysql/lib/Connection.js:88:28)
+    at Socket.<anonymous> (/Users/superyang/Downloads/cms-api/node_modules/mysql/lib/Connection.js:526:10)
+    at Socket.emit (node:events:513:28)
+    at addChunk (node:internal/streams/readable:315:12)
+    --------------------
+    at Protocol._enqueue (/Users/superyang/Downloads/cms-api/node_modules/mysql/lib/protocol/Protocol.js:144:48)
+    at Protocol.handshake (/Users/superyang/Downloads/cms-api/node_modules/mysql/lib/protocol/Protocol.js:51:23)
+    at PoolConnection.connect (/Users/superyang/Downloads/cms-api/node_modules/mysql/lib/Connection.js:116:18)
+    at Pool.getConnection (/Users/superyang/Downloads/cms-api/node_modules/mysql/lib/Pool.js:48:16)
+    at node:internal/util:361:7
+    at new Promise (<anonymous>)
+    at Pool.getConnection (node:internal/util:347:12)
+    at Pool.query (/Users/superyang/Downloads/cms-api/node_modules/mysql/lib/Pool.js:202:8)
+    at node:internal/util:361:7
+    at new Promise (<anonymous>)
+    sql: select now() as currentTime;
+code: "ER_BAD_DB_ERROR"
+errno: 1049
+sqlMessage: "Unknown database 'cms'"
+sqlState: "42000"
+fatal: true
+name: "ER_BAD_DB_ERRORError"
+pid: 90755
+hostname: superyangdeMacBook-Pro.local
+
+2023-06-25 11:00:01,128 ERROR 91261 [-/127.0.0.1/-/7ms GET /api/role/getUser] nodejs.ER_NO_SUCH_TABLEError: ER_NO_SUCH_TABLE: Table 'cms-api.user' doesn't exist
+    at Query.Sequence._packetToError (/Users/superyang/Downloads/cms-api/node_modules/mysql/lib/protocol/sequences/Sequence.js:47:14)
+    at Query.ErrorPacket (/Users/superyang/Downloads/cms-api/node_modules/mysql/lib/protocol/sequences/Query.js:79:18)
+    at Protocol._parsePacket (/Users/superyang/Downloads/cms-api/node_modules/mysql/lib/protocol/Protocol.js:291:23)
+    at Parser._parsePacket (/Users/superyang/Downloads/cms-api/node_modules/mysql/lib/protocol/Parser.js:433:10)
+    at Parser.write (/Users/superyang/Downloads/cms-api/node_modules/mysql/lib/protocol/Parser.js:43:10)
+    at Protocol.write (/Users/superyang/Downloads/cms-api/node_modules/mysql/lib/protocol/Protocol.js:38:16)
+    at Socket.<anonymous> (/Users/superyang/Downloads/cms-api/node_modules/mysql/lib/Connection.js:88:28)
+    at Socket.<anonymous> (/Users/superyang/Downloads/cms-api/node_modules/mysql/lib/Connection.js:526:10)
+    at Socket.emit (node:events:513:28)
+    at addChunk (node:internal/streams/readable:315:12)
+    --------------------
+    at Pool.query (/Users/superyang/Downloads/cms-api/node_modules/mysql/lib/Pool.js:199:23)
+    at node:internal/util:361:7
+    at new Promise (<anonymous>)
+    at Pool.query (node:internal/util:347:12)
+    at RDSClient._query (/Users/superyang/Downloads/cms-api/node_modules/ali-rds/lib/client.js:23:29)
+    at RDSClient.query (/Users/superyang/Downloads/cms-api/node_modules/ali-rds/lib/operator.js:43:31)
+    at RDSClient.select (/Users/superyang/Downloads/cms-api/node_modules/ali-rds/lib/operator.js:89:23)
+    at RoleService.getUser (/Users/superyang/Downloads/cms-api/app/service/role.js:33:34)
+    at RoleController.getUser (/Users/superyang/Downloads/cms-api/app/controller/role.js:10:37)
+    at Object.callFn (/Users/superyang/Downloads/cms-api/node_modules/egg-core/lib/utils/index.js:44:21)
+    sql: SELECT * FROM `user`
+code: "ER_NO_SUCH_TABLE"
+errno: 1146
+sqlMessage: "Table 'cms-api.user' doesn't exist"
+sqlState: "42S02"
+index: 0
+sql: "SELECT * FROM `user`"
+name: "ER_NO_SUCH_TABLEError"
+pid: 91261
+hostname: superyangdeMacBook-Pro.local
+
+2023-06-25 13:17:57,761 WARN 92940 [-/127.0.0.1/-/24ms POST /api/signup] nodejs.SyntaxError: Unexpected token n in JSON at position 2, check bodyParser config
+    at JSON.parse (<anonymous>)
+    at parse (/Users/superyang/Downloads/cms-api/node_modules/co-body/lib/json.js:57:17)
+    at AsyncFunction.module.exports [as json] (/Users/superyang/Downloads/cms-api/node_modules/co-body/lib/json.js:41:20)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async parseBody (/Users/superyang/Downloads/cms-api/node_modules/koa-bodyparser/index.js:99:14)
+    at async bodyParser (/Users/superyang/Downloads/cms-api/node_modules/koa-bodyparser/index.js:80:19)
+    at async /Users/superyang/Downloads/cms-api/node_modules/koa-static-cache/index.js:39:63
+    at async notfound (/Users/superyang/Downloads/cms-api/node_modules/egg/app/middleware/notfound.js:5:5)
+    at async meta (/Users/superyang/Downloads/cms-api/node_modules/egg/app/middleware/meta.js:18:5)
+    at async cors (/Users/superyang/Downloads/cms-api/node_modules/@koa/cors/index.js:61:32)
+status: 400
+body: "{ name: \"hqb\", password: \"123\" }"
+pid: 92940
+hostname: superyangdeMacBook-Pro.local
+
+2023-06-25 13:18:36,960 WARN 92940 [-/127.0.0.1/-/2ms POST /api/signup] nodejs.SyntaxError: Unexpected token n in JSON at position 2, check bodyParser config
+    at JSON.parse (<anonymous>)
+    at parse (/Users/superyang/Downloads/cms-api/node_modules/co-body/lib/json.js:57:17)
+    at AsyncFunction.module.exports [as json] (/Users/superyang/Downloads/cms-api/node_modules/co-body/lib/json.js:41:20)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async parseBody (/Users/superyang/Downloads/cms-api/node_modules/koa-bodyparser/index.js:99:14)
+    at async bodyParser (/Users/superyang/Downloads/cms-api/node_modules/koa-bodyparser/index.js:80:19)
+    at async /Users/superyang/Downloads/cms-api/node_modules/koa-static-cache/index.js:39:63
+    at async notfound (/Users/superyang/Downloads/cms-api/node_modules/egg/app/middleware/notfound.js:5:5)
+    at async meta (/Users/superyang/Downloads/cms-api/node_modules/egg/app/middleware/meta.js:18:5)
+    at async cors (/Users/superyang/Downloads/cms-api/node_modules/@koa/cors/index.js:61:32)
+status: 400
+body: "{ name: \"hqb\", password: \"123\" }"
+pid: 92940
+hostname: superyangdeMacBook-Pro.local
+
+2023-06-25 13:25:28,774 ERROR 92940 [-/127.0.0.1/-/28533ms POST /api/signup] nodejs.TypeError: address.join is not a function
+    at UserController.signup (/Users/superyang/Downloads/cms-api/app/controller/user.js:22:24)
+    at Object.callFn (/Users/superyang/Downloads/cms-api/node_modules/egg-core/lib/utils/index.js:44:21)
+    at Object.classControllerMiddleware (/Users/superyang/Downloads/cms-api/node_modules/egg-core/lib/loader/mixin/controller.js:87:20)
+    at Object.callFn (/Users/superyang/Downloads/cms-api/node_modules/@eggjs/router/lib/utils.js:12:21)
+    at wrappedController (/Users/superyang/Downloads/cms-api/node_modules/@eggjs/router/lib/egg_router.js:322:18)
+    at dispatch (/Users/superyang/Downloads/cms-api/node_modules/koa-compose/index.js:44:32)
+    at next (/Users/superyang/Downloads/cms-api/node_modules/koa-compose/index.js:45:18)
+    at /Users/superyang/Downloads/cms-api/node_modules/@eggjs/router/lib/router.js:186:18
+    at dispatch (/Users/superyang/Downloads/cms-api/node_modules/koa-compose/index.js:44:32)
+    at /Users/superyang/Downloads/cms-api/node_modules/koa-compose/index.js:36:12
+
+pid: 92940
+hostname: superyangdeMacBook-Pro.local
+
+2023-06-25 13:26:30,739 ERROR 92940 [-/127.0.0.1/-/13669ms POST /api/signup] nodejs.TypeError: address.join is not a function
+    at UserController.signup (/Users/superyang/Downloads/cms-api/app/controller/user.js:22:24)
+    at Object.callFn (/Users/superyang/Downloads/cms-api/node_modules/egg-core/lib/utils/index.js:44:21)
+    at Object.classControllerMiddleware (/Users/superyang/Downloads/cms-api/node_modules/egg-core/lib/loader/mixin/controller.js:87:20)
+    at Object.callFn (/Users/superyang/Downloads/cms-api/node_modules/@eggjs/router/lib/utils.js:12:21)
+    at wrappedController (/Users/superyang/Downloads/cms-api/node_modules/@eggjs/router/lib/egg_router.js:322:18)
+    at dispatch (/Users/superyang/Downloads/cms-api/node_modules/koa-compose/index.js:44:32)
+    at next (/Users/superyang/Downloads/cms-api/node_modules/koa-compose/index.js:45:18)
+    at /Users/superyang/Downloads/cms-api/node_modules/@eggjs/router/lib/router.js:186:18
+    at dispatch (/Users/superyang/Downloads/cms-api/node_modules/koa-compose/index.js:44:32)
+    at /Users/superyang/Downloads/cms-api/node_modules/koa-compose/index.js:36:12
+
+pid: 92940
+hostname: superyangdeMacBook-Pro.local
+
+2023-06-25 13:28:41,789 ERROR 92940 [-/127.0.0.1/-/4258ms POST /api/signup] nodejs.TypeError: address.join is not a function
+    at UserController.signup (/Users/superyang/Downloads/cms-api/app/controller/user.js:22:24)
+    at Object.callFn (/Users/superyang/Downloads/cms-api/node_modules/egg-core/lib/utils/index.js:44:21)
+    at Object.classControllerMiddleware (/Users/superyang/Downloads/cms-api/node_modules/egg-core/lib/loader/mixin/controller.js:87:20)
+    at Object.callFn (/Users/superyang/Downloads/cms-api/node_modules/@eggjs/router/lib/utils.js:12:21)
+    at wrappedController (/Users/superyang/Downloads/cms-api/node_modules/@eggjs/router/lib/egg_router.js:322:18)
+    at dispatch (/Users/superyang/Downloads/cms-api/node_modules/koa-compose/index.js:44:32)
+    at next (/Users/superyang/Downloads/cms-api/node_modules/koa-compose/index.js:45:18)
+    at /Users/superyang/Downloads/cms-api/node_modules/@eggjs/router/lib/router.js:186:18
+    at dispatch (/Users/superyang/Downloads/cms-api/node_modules/koa-compose/index.js:44:32)
+    at /Users/superyang/Downloads/cms-api/node_modules/koa-compose/index.js:36:12
+
+pid: 92940
+hostname: superyangdeMacBook-Pro.local
+
+2023-06-25 13:46:58,094 ERROR 93176 [-/undefined/-/15322ms POST /api/signin] nodejs.ECONNRESETError: read ECONNRESET
+    at TCP.onStreamRead (node:internal/stream_base_commons:217:20)
+    at TCP.callbackTrampoline (node:internal/async_hooks:130:17)
+errno: -54
+code: "ECONNRESET"
+syscall: "read"
+headerSent: true
+name: "ECONNRESETError"
+pid: 93176
+hostname: superyangdeMacBook-Pro.local
+
+2023-06-25 13:47:47,109 ERROR 93176 [-/undefined/-/49011ms POST /api/signin] nodejs.ECONNRESETError: read ECONNRESET
+    at TCP.onStreamRead (node:internal/stream_base_commons:217:20)
+    at TCP.callbackTrampoline (node:internal/async_hooks:130:17)
+errno: -54
+code: "ECONNRESET"
+syscall: "read"
+headerSent: true
+name: "ECONNRESETError"
+pid: 93176
+hostname: superyangdeMacBook-Pro.local
+
+2023-06-25 13:47:47,113 ERROR 93176 [-/undefined/-/49015ms POST /api/signin] nodejs.PROTOCOL_SEQUENCE_TIMEOUTError: Handshake inactivity timeout
+    at Handshake.<anonymous> (/Users/superyang/Downloads/cms-api/node_modules/mysql/lib/protocol/Protocol.js:160:17)
+    at Handshake.emit (node:events:513:28)
+    at Handshake._onTimeout (/Users/superyang/Downloads/cms-api/node_modules/mysql/lib/protocol/sequences/Sequence.js:124:8)
+    at Timer._onTimeout (/Users/superyang/Downloads/cms-api/node_modules/mysql/lib/protocol/Timer.js:32:23)
+    at listOnTimeout (node:internal/timers:559:17)
+    at processTimers (node:internal/timers:502:7)
+    --------------------
+    at Protocol._enqueue (/Users/superyang/Downloads/cms-api/node_modules/mysql/lib/protocol/Protocol.js:144:48)
+    at Protocol.handshake (/Users/superyang/Downloads/cms-api/node_modules/mysql/lib/protocol/Protocol.js:51:23)
+    at PoolConnection.connect (/Users/superyang/Downloads/cms-api/node_modules/mysql/lib/Connection.js:116:18)
+    at Pool.getConnection (/Users/superyang/Downloads/cms-api/node_modules/mysql/lib/Pool.js:48:16)
+    at node:internal/util:361:7
+    at new Promise (<anonymous>)
+    at Pool.getConnection (node:internal/util:347:12)
+    at Pool.query (/Users/superyang/Downloads/cms-api/node_modules/mysql/lib/Pool.js:202:8)
+    at node:internal/util:361:7
+    at new Promise (<anonymous>)
+    sql: SELECT * FROM `user` WHERE `username` = 'superyang' AND `password` = '123456' LIMIT 0, 1
+code: "PROTOCOL_SEQUENCE_TIMEOUT"
+fatal: true
+timeout: 10000
+headerSent: true
+name: "PROTOCOL_SEQUENCE_TIMEOUTError"
+pid: 93176
+hostname: superyangdeMacBook-Pro.local
+
+2023-06-25 13:50:17,900 ERROR 93176 [-/127.0.0.1/-/4ms GET /api/roleResource] nodejs.ER_BAD_FIELD_ERRORError: ER_BAD_FIELD_ERROR: Unknown column 'id' in 'order clause'
+    at Query.Sequence._packetToError (/Users/superyang/Downloads/cms-api/node_modules/mysql/lib/protocol/sequences/Sequence.js:47:14)
+    at Query.ErrorPacket (/Users/superyang/Downloads/cms-api/node_modules/mysql/lib/protocol/sequences/Query.js:79:18)
+    at Protocol._parsePacket (/Users/superyang/Downloads/cms-api/node_modules/mysql/lib/protocol/Protocol.js:291:23)
+    at Parser._parsePacket (/Users/superyang/Downloads/cms-api/node_modules/mysql/lib/protocol/Parser.js:433:10)
+    at Parser.write (/Users/superyang/Downloads/cms-api/node_modules/mysql/lib/protocol/Parser.js:43:10)
+    at Protocol.write (/Users/superyang/Downloads/cms-api/node_modules/mysql/lib/protocol/Protocol.js:38:16)
+    at Socket.<anonymous> (/Users/superyang/Downloads/cms-api/node_modules/mysql/lib/Connection.js:88:28)
+    at Socket.<anonymous> (/Users/superyang/Downloads/cms-api/node_modules/mysql/lib/Connection.js:526:10)
+    at Socket.emit (node:events:513:28)
+    at addChunk (node:internal/streams/readable:315:12)
+    --------------------
+    at Pool.query (/Users/superyang/Downloads/cms-api/node_modules/mysql/lib/Pool.js:199:23)
+    at node:internal/util:361:7
+    at new Promise (<anonymous>)
+    at Pool.query (node:internal/util:347:12)
+    at RDSClient._query (/Users/superyang/Downloads/cms-api/node_modules/ali-rds/lib/client.js:23:29)
+    at RDSClient.query (/Users/superyang/Downloads/cms-api/node_modules/ali-rds/lib/operator.js:43:31)
+    at UserService.select (/Users/superyang/Downloads/cms-api/app/service/base.js:19:38)
+    at RoleResourceController.index (/Users/superyang/Downloads/cms-api/app/controller/base.js:16:45)
+    at Object.callFn (/Users/superyang/Downloads/cms-api/node_modules/egg-core/lib/utils/index.js:44:21)
+    at Object.classControllerMiddleware (/Users/superyang/Downloads/cms-api/node_modules/egg-core/lib/loader/mixin/controller.js:87:20)
+    sql: SELECT * FROM role_user where 1=1   order by id DESC limit 0,3
+code: "ER_BAD_FIELD_ERROR"
+errno: 1054
+sqlMessage: "Unknown column 'id' in 'order clause'"
+sqlState: "42S22"
+index: 0
+sql: "SELECT * FROM role_user where 1=1   order by id DESC limit 0,3"
+name: "ER_BAD_FIELD_ERRORError"
+pid: 93176
+hostname: superyangdeMacBook-Pro.local
+
+2023-06-25 13:54:25,980 ERROR 93176 [-/127.0.0.1/-/6ms GET /api/roleResource] nodejs.ER_BAD_FIELD_ERRORError: ER_BAD_FIELD_ERROR: Unknown column 'id' in 'order clause'
+    at Query.Sequence._packetToError (/Users/superyang/Downloads/cms-api/node_modules/mysql/lib/protocol/sequences/Sequence.js:47:14)
+    at Query.ErrorPacket (/Users/superyang/Downloads/cms-api/node_modules/mysql/lib/protocol/sequences/Query.js:79:18)
+    at Protocol._parsePacket (/Users/superyang/Downloads/cms-api/node_modules/mysql/lib/protocol/Protocol.js:291:23)
+    at Parser._parsePacket (/Users/superyang/Downloads/cms-api/node_modules/mysql/lib/protocol/Parser.js:433:10)
+    at Parser.write (/Users/superyang/Downloads/cms-api/node_modules/mysql/lib/protocol/Parser.js:43:10)
+    at Protocol.write (/Users/superyang/Downloads/cms-api/node_modules/mysql/lib/protocol/Protocol.js:38:16)
+    at Socket.<anonymous> (/Users/superyang/Downloads/cms-api/node_modules/mysql/lib/Connection.js:88:28)
+    at Socket.<anonymous> (/Users/superyang/Downloads/cms-api/node_modules/mysql/lib/Connection.js:526:10)
+    at Socket.emit (node:events:513:28)
+    at addChunk (node:internal/streams/readable:315:12)
+    --------------------
+    at Pool.query (/Users/superyang/Downloads/cms-api/node_modules/mysql/lib/Pool.js:199:23)
+    at node:internal/util:361:7
+    at new Promise (<anonymous>)
+    at Pool.query (node:internal/util:347:12)
+    at RDSClient._query (/Users/superyang/Downloads/cms-api/node_modules/ali-rds/lib/client.js:23:29)
+    at RDSClient.query (/Users/superyang/Downloads/cms-api/node_modules/ali-rds/lib/operator.js:43:31)
+    at UserService.select (/Users/superyang/Downloads/cms-api/app/service/base.js:19:38)
+    at RoleResourceController.index (/Users/superyang/Downloads/cms-api/app/controller/base.js:16:45)
+    at Object.callFn (/Users/superyang/Downloads/cms-api/node_modules/egg-core/lib/utils/index.js:44:21)
+    at Object.classControllerMiddleware (/Users/superyang/Downloads/cms-api/node_modules/egg-core/lib/loader/mixin/controller.js:87:20)
+    sql: SELECT * FROM role_user where 1=1   order by id DESC limit 0,3
+code: "ER_BAD_FIELD_ERROR"
+errno: 1054
+sqlMessage: "Unknown column 'id' in 'order clause'"
+sqlState: "42S22"
+index: 0
+sql: "SELECT * FROM role_user where 1=1   order by id DESC limit 0,3"
+name: "ER_BAD_FIELD_ERRORError"
+pid: 93176
+hostname: superyangdeMacBook-Pro.local
+
+2023-06-25 13:55:13,286 ERROR 93176 [-/127.0.0.1/-/3ms GET /api/roleResource] nodejs.ER_BAD_FIELD_ERRORError: ER_BAD_FIELD_ERROR: Unknown column 'id' in 'order clause'
+    at Query.Sequence._packetToError (/Users/superyang/Downloads/cms-api/node_modules/mysql/lib/protocol/sequences/Sequence.js:47:14)
+    at Query.ErrorPacket (/Users/superyang/Downloads/cms-api/node_modules/mysql/lib/protocol/sequences/Query.js:79:18)
+    at Protocol._parsePacket (/Users/superyang/Downloads/cms-api/node_modules/mysql/lib/protocol/Protocol.js:291:23)
+    at Parser._parsePacket (/Users/superyang/Downloads/cms-api/node_modules/mysql/lib/protocol/Parser.js:433:10)
+    at Parser.write (/Users/superyang/Downloads/cms-api/node_modules/mysql/lib/protocol/Parser.js:43:10)
+    at Protocol.write (/Users/superyang/Downloads/cms-api/node_modules/mysql/lib/protocol/Protocol.js:38:16)
+    at Socket.<anonymous> (/Users/superyang/Downloads/cms-api/node_modules/mysql/lib/Connection.js:88:28)
+    at Socket.<anonymous> (/Users/superyang/Downloads/cms-api/node_modules/mysql/lib/Connection.js:526:10)
+    at Socket.emit (node:events:513:28)
+    at addChunk (node:internal/streams/readable:315:12)
+    --------------------
+    at Pool.query (/Users/superyang/Downloads/cms-api/node_modules/mysql/lib/Pool.js:199:23)
+    at node:internal/util:361:7
+    at new Promise (<anonymous>)
+    at Pool.query (node:internal/util:347:12)
+    at RDSClient._query (/Users/superyang/Downloads/cms-api/node_modules/ali-rds/lib/client.js:23:29)
+    at RDSClient.query (/Users/superyang/Downloads/cms-api/node_modules/ali-rds/lib/operator.js:43:31)
+    at UserService.select (/Users/superyang/Downloads/cms-api/app/service/base.js:19:38)
+    at RoleResourceController.index (/Users/superyang/Downloads/cms-api/app/controller/base.js:16:45)
+    at Object.callFn (/Users/superyang/Downloads/cms-api/node_modules/egg-core/lib/utils/index.js:44:21)
+    at Object.classControllerMiddleware (/Users/superyang/Downloads/cms-api/node_modules/egg-core/lib/loader/mixin/controller.js:87:20)
+    sql: SELECT * FROM role_user where 1=1   order by id DESC limit 0,3
+code: "ER_BAD_FIELD_ERROR"
+errno: 1054
+sqlMessage: "Unknown column 'id' in 'order clause'"
+sqlState: "42S22"
+index: 0
+sql: "SELECT * FROM role_user where 1=1   order by id DESC limit 0,3"
+name: "ER_BAD_FIELD_ERRORError"
+pid: 93176
+hostname: superyangdeMacBook-Pro.local
+
+2023-06-25 13:55:14,169 ERROR 93176 [-/127.0.0.1/-/4ms GET /api/roleResource] nodejs.ER_BAD_FIELD_ERRORError: ER_BAD_FIELD_ERROR: Unknown column 'id' in 'order clause'
+    at Query.Sequence._packetToError (/Users/superyang/Downloads/cms-api/node_modules/mysql/lib/protocol/sequences/Sequence.js:47:14)
+    at Query.ErrorPacket (/Users/superyang/Downloads/cms-api/node_modules/mysql/lib/protocol/sequences/Query.js:79:18)
+    at Protocol._parsePacket (/Users/superyang/Downloads/cms-api/node_modules/mysql/lib/protocol/Protocol.js:291:23)
+    at Parser._parsePacket (/Users/superyang/Downloads/cms-api/node_modules/mysql/lib/protocol/Parser.js:433:10)
+    at Parser.write (/Users/superyang/Downloads/cms-api/node_modules/mysql/lib/protocol/Parser.js:43:10)
+    at Protocol.write (/Users/superyang/Downloads/cms-api/node_modules/mysql/lib/protocol/Protocol.js:38:16)
+    at Socket.<anonymous> (/Users/superyang/Downloads/cms-api/node_modules/mysql/lib/Connection.js:88:28)
+    at Socket.<anonymous> (/Users/superyang/Downloads/cms-api/node_modules/mysql/lib/Connection.js:526:10)
+    at Socket.emit (node:events:513:28)
+    at addChunk (node:internal/streams/readable:315:12)
+    --------------------
+    at Pool.query (/Users/superyang/Downloads/cms-api/node_modules/mysql/lib/Pool.js:199:23)
+    at node:internal/util:361:7
+    at new Promise (<anonymous>)
+    at Pool.query (node:internal/util:347:12)
+    at RDSClient._query (/Users/superyang/Downloads/cms-api/node_modules/ali-rds/lib/client.js:23:29)
+    at RDSClient.query (/Users/superyang/Downloads/cms-api/node_modules/ali-rds/lib/operator.js:43:31)
+    at UserService.select (/Users/superyang/Downloads/cms-api/app/service/base.js:19:38)
+    at RoleResourceController.index (/Users/superyang/Downloads/cms-api/app/controller/base.js:16:45)
+    at Object.callFn (/Users/superyang/Downloads/cms-api/node_modules/egg-core/lib/utils/index.js:44:21)
+    at Object.classControllerMiddleware (/Users/superyang/Downloads/cms-api/node_modules/egg-core/lib/loader/mixin/controller.js:87:20)
+    sql: SELECT * FROM role_user where 1=1   order by id DESC limit 0,3
+code: "ER_BAD_FIELD_ERROR"
+errno: 1054
+sqlMessage: "Unknown column 'id' in 'order clause'"
+sqlState: "42S22"
+index: 0
+sql: "SELECT * FROM role_user where 1=1   order by id DESC limit 0,3"
+name: "ER_BAD_FIELD_ERRORError"
+pid: 93176
+hostname: superyangdeMacBook-Pro.local
+
+2023-06-25 13:55:14,937 ERROR 93443 [-/127.0.0.1/-/14ms GET /api/roleResource] nodejs.ER_BAD_FIELD_ERRORError: ER_BAD_FIELD_ERROR: Unknown column 'id' in 'order clause'
+    at Query.Sequence._packetToError (/Users/superyang/Downloads/cms-api/node_modules/mysql/lib/protocol/sequences/Sequence.js:47:14)
+    at Query.ErrorPacket (/Users/superyang/Downloads/cms-api/node_modules/mysql/lib/protocol/sequences/Query.js:79:18)
+    at Protocol._parsePacket (/Users/superyang/Downloads/cms-api/node_modules/mysql/lib/protocol/Protocol.js:291:23)
+    at Parser._parsePacket (/Users/superyang/Downloads/cms-api/node_modules/mysql/lib/protocol/Parser.js:433:10)
+    at Parser.write (/Users/superyang/Downloads/cms-api/node_modules/mysql/lib/protocol/Parser.js:43:10)
+    at Protocol.write (/Users/superyang/Downloads/cms-api/node_modules/mysql/lib/protocol/Protocol.js:38:16)
+    at Socket.<anonymous> (/Users/superyang/Downloads/cms-api/node_modules/mysql/lib/Connection.js:88:28)
+    at Socket.<anonymous> (/Users/superyang/Downloads/cms-api/node_modules/mysql/lib/Connection.js:526:10)
+    at Socket.emit (node:events:513:28)
+    at addChunk (node:internal/streams/readable:315:12)
+    --------------------
+    at Pool.query (/Users/superyang/Downloads/cms-api/node_modules/mysql/lib/Pool.js:199:23)
+    at node:internal/util:361:7
+    at new Promise (<anonymous>)
+    at Pool.query (node:internal/util:347:12)
+    at RDSClient._query (/Users/superyang/Downloads/cms-api/node_modules/ali-rds/lib/client.js:23:29)
+    at RDSClient.query (/Users/superyang/Downloads/cms-api/node_modules/ali-rds/lib/operator.js:43:31)
+    at UserService.select (/Users/superyang/Downloads/cms-api/app/service/base.js:19:38)
+    at RoleResourceController.index (/Users/superyang/Downloads/cms-api/app/controller/base.js:16:45)
+    at Object.callFn (/Users/superyang/Downloads/cms-api/node_modules/egg-core/lib/utils/index.js:44:21)
+    at Object.classControllerMiddleware (/Users/superyang/Downloads/cms-api/node_modules/egg-core/lib/loader/mixin/controller.js:87:20)
+    sql: SELECT * FROM role_resource where 1=1   order by id DESC limit 0,3
+code: "ER_BAD_FIELD_ERROR"
+errno: 1054
+sqlMessage: "Unknown column 'id' in 'order clause'"
+sqlState: "42S22"
+index: 0
+sql: "SELECT * FROM role_resource where 1=1   order by id DESC limit 0,3"
+name: "ER_BAD_FIELD_ERRORError"
+pid: 93443
+hostname: superyangdeMacBook-Pro.local
+
+2023-06-25 13:55:15,288 ERROR 93443 [-/127.0.0.1/-/5ms GET /api/roleResource] nodejs.ER_BAD_FIELD_ERRORError: ER_BAD_FIELD_ERROR: Unknown column 'id' in 'order clause'
+    at Query.Sequence._packetToError (/Users/superyang/Downloads/cms-api/node_modules/mysql/lib/protocol/sequences/Sequence.js:47:14)
+    at Query.ErrorPacket (/Users/superyang/Downloads/cms-api/node_modules/mysql/lib/protocol/sequences/Query.js:79:18)
+    at Protocol._parsePacket (/Users/superyang/Downloads/cms-api/node_modules/mysql/lib/protocol/Protocol.js:291:23)
+    at Parser._parsePacket (/Users/superyang/Downloads/cms-api/node_modules/mysql/lib/protocol/Parser.js:433:10)
+    at Parser.write (/Users/superyang/Downloads/cms-api/node_modules/mysql/lib/protocol/Parser.js:43:10)
+    at Protocol.write (/Users/superyang/Downloads/cms-api/node_modules/mysql/lib/protocol/Protocol.js:38:16)
+    at Socket.<anonymous> (/Users/superyang/Downloads/cms-api/node_modules/mysql/lib/Connection.js:88:28)
+    at Socket.<anonymous> (/Users/superyang/Downloads/cms-api/node_modules/mysql/lib/Connection.js:526:10)
+    at Socket.emit (node:events:513:28)
+    at addChunk (node:internal/streams/readable:315:12)
+    --------------------
+    at Pool.query (/Users/superyang/Downloads/cms-api/node_modules/mysql/lib/Pool.js:199:23)
+    at node:internal/util:361:7
+    at new Promise (<anonymous>)
+    at Pool.query (node:internal/util:347:12)
+    at RDSClient._query (/Users/superyang/Downloads/cms-api/node_modules/ali-rds/lib/client.js:23:29)
+    at RDSClient.query (/Users/superyang/Downloads/cms-api/node_modules/ali-rds/lib/operator.js:43:31)
+    at UserService.select (/Users/superyang/Downloads/cms-api/app/service/base.js:19:38)
+    at RoleResourceController.index (/Users/superyang/Downloads/cms-api/app/controller/base.js:16:45)
+    at Object.callFn (/Users/superyang/Downloads/cms-api/node_modules/egg-core/lib/utils/index.js:44:21)
+    at Object.classControllerMiddleware (/Users/superyang/Downloads/cms-api/node_modules/egg-core/lib/loader/mixin/controller.js:87:20)
+    sql: SELECT * FROM role_resource where 1=1   order by id DESC limit 0,3
+code: "ER_BAD_FIELD_ERROR"
+errno: 1054
+sqlMessage: "Unknown column 'id' in 'order clause'"
+sqlState: "42S22"
+index: 0
+sql: "SELECT * FROM role_resource where 1=1   order by id DESC limit 0,3"
+name: "ER_BAD_FIELD_ERRORError"
+pid: 93443
+hostname: superyangdeMacBook-Pro.local
+
+2023-06-25 13:55:15,553 ERROR 93443 [-/127.0.0.1/-/6ms GET /api/roleResource] nodejs.ER_BAD_FIELD_ERRORError: ER_BAD_FIELD_ERROR: Unknown column 'id' in 'order clause'
+    at Query.Sequence._packetToError (/Users/superyang/Downloads/cms-api/node_modules/mysql/lib/protocol/sequences/Sequence.js:47:14)
+    at Query.ErrorPacket (/Users/superyang/Downloads/cms-api/node_modules/mysql/lib/protocol/sequences/Query.js:79:18)
+    at Protocol._parsePacket (/Users/superyang/Downloads/cms-api/node_modules/mysql/lib/protocol/Protocol.js:291:23)
+    at Parser._parsePacket (/Users/superyang/Downloads/cms-api/node_modules/mysql/lib/protocol/Parser.js:433:10)
+    at Parser.write (/Users/superyang/Downloads/cms-api/node_modules/mysql/lib/protocol/Parser.js:43:10)
+    at Protocol.write (/Users/superyang/Downloads/cms-api/node_modules/mysql/lib/protocol/Protocol.js:38:16)
+    at Socket.<anonymous> (/Users/superyang/Downloads/cms-api/node_modules/mysql/lib/Connection.js:88:28)
+    at Socket.<anonymous> (/Users/superyang/Downloads/cms-api/node_modules/mysql/lib/Connection.js:526:10)
+    at Socket.emit (node:events:513:28)
+    at addChunk (node:internal/streams/readable:315:12)
+    --------------------
+    at Pool.query (/Users/superyang/Downloads/cms-api/node_modules/mysql/lib/Pool.js:199:23)
+    at node:internal/util:361:7
+    at new Promise (<anonymous>)
+    at Pool.query (node:internal/util:347:12)
+    at RDSClient._query (/Users/superyang/Downloads/cms-api/node_modules/ali-rds/lib/client.js:23:29)
+    at RDSClient.query (/Users/superyang/Downloads/cms-api/node_modules/ali-rds/lib/operator.js:43:31)
+    at UserService.select (/Users/superyang/Downloads/cms-api/app/service/base.js:19:38)
+    at RoleResourceController.index (/Users/superyang/Downloads/cms-api/app/controller/base.js:16:45)
+    at Object.callFn (/Users/superyang/Downloads/cms-api/node_modules/egg-core/lib/utils/index.js:44:21)
+    at Object.classControllerMiddleware (/Users/superyang/Downloads/cms-api/node_modules/egg-core/lib/loader/mixin/controller.js:87:20)
+    sql: SELECT * FROM role_resource where 1=1   order by id DESC limit 0,3
+code: "ER_BAD_FIELD_ERROR"
+errno: 1054
+sqlMessage: "Unknown column 'id' in 'order clause'"
+sqlState: "42S22"
+index: 0
+sql: "SELECT * FROM role_resource where 1=1   order by id DESC limit 0,3"
+name: "ER_BAD_FIELD_ERRORError"
+pid: 93443
+hostname: superyangdeMacBook-Pro.local
+
+2023-06-25 13:55:44,625 ERROR 93461 [-/127.0.0.1/-/14ms GET /api/roleResource] nodejs.ER_BAD_FIELD_ERRORError: ER_BAD_FIELD_ERROR: Unknown column 'id' in 'order clause'
+    at Query.Sequence._packetToError (/Users/superyang/Downloads/cms-api/node_modules/mysql/lib/protocol/sequences/Sequence.js:47:14)
+    at Query.ErrorPacket (/Users/superyang/Downloads/cms-api/node_modules/mysql/lib/protocol/sequences/Query.js:79:18)
+    at Protocol._parsePacket (/Users/superyang/Downloads/cms-api/node_modules/mysql/lib/protocol/Protocol.js:291:23)
+    at Parser._parsePacket (/Users/superyang/Downloads/cms-api/node_modules/mysql/lib/protocol/Parser.js:433:10)
+    at Parser.write (/Users/superyang/Downloads/cms-api/node_modules/mysql/lib/protocol/Parser.js:43:10)
+    at Protocol.write (/Users/superyang/Downloads/cms-api/node_modules/mysql/lib/protocol/Protocol.js:38:16)
+    at Socket.<anonymous> (/Users/superyang/Downloads/cms-api/node_modules/mysql/lib/Connection.js:88:28)
+    at Socket.<anonymous> (/Users/superyang/Downloads/cms-api/node_modules/mysql/lib/Connection.js:526:10)
+    at Socket.emit (node:events:513:28)
+    at addChunk (node:internal/streams/readable:315:12)
+    --------------------
+    at Pool.query (/Users/superyang/Downloads/cms-api/node_modules/mysql/lib/Pool.js:199:23)
+    at node:internal/util:361:7
+    at new Promise (<anonymous>)
+    at Pool.query (node:internal/util:347:12)
+    at RDSClient._query (/Users/superyang/Downloads/cms-api/node_modules/ali-rds/lib/client.js:23:29)
+    at RDSClient.query (/Users/superyang/Downloads/cms-api/node_modules/ali-rds/lib/operator.js:43:31)
+    at UserService.select (/Users/superyang/Downloads/cms-api/app/service/base.js:19:38)
+    at RoleResourceController.index (/Users/superyang/Downloads/cms-api/app/controller/base.js:16:45)
+    at Object.callFn (/Users/superyang/Downloads/cms-api/node_modules/egg-core/lib/utils/index.js:44:21)
+    at Object.classControllerMiddleware (/Users/superyang/Downloads/cms-api/node_modules/egg-core/lib/loader/mixin/controller.js:87:20)
+    sql: SELECT * FROM role_resource where 1=1   order by id DESC limit 0,3
+code: "ER_BAD_FIELD_ERROR"
+errno: 1054
+sqlMessage: "Unknown column 'id' in 'order clause'"
+sqlState: "42S22"
+index: 0
+sql: "SELECT * FROM role_resource where 1=1   order by id DESC limit 0,3"
+name: "ER_BAD_FIELD_ERRORError"
+pid: 93461
+hostname: superyangdeMacBook-Pro.local
+
+2023-06-25 13:56:55,131 ERROR 93461 [-/127.0.0.1/-/2ms GET /api/roleResource] nodejs.ER_BAD_FIELD_ERRORError: ER_BAD_FIELD_ERROR: Unknown column 'id' in 'order clause'
+    at Query.Sequence._packetToError (/Users/superyang/Downloads/cms-api/node_modules/mysql/lib/protocol/sequences/Sequence.js:47:14)
+    at Query.ErrorPacket (/Users/superyang/Downloads/cms-api/node_modules/mysql/lib/protocol/sequences/Query.js:79:18)
+    at Protocol._parsePacket (/Users/superyang/Downloads/cms-api/node_modules/mysql/lib/protocol/Protocol.js:291:23)
+    at Parser._parsePacket (/Users/superyang/Downloads/cms-api/node_modules/mysql/lib/protocol/Parser.js:433:10)
+    at Parser.write (/Users/superyang/Downloads/cms-api/node_modules/mysql/lib/protocol/Parser.js:43:10)
+    at Protocol.write (/Users/superyang/Downloads/cms-api/node_modules/mysql/lib/protocol/Protocol.js:38:16)
+    at Socket.<anonymous> (/Users/superyang/Downloads/cms-api/node_modules/mysql/lib/Connection.js:88:28)
+    at Socket.<anonymous> (/Users/superyang/Downloads/cms-api/node_modules/mysql/lib/Connection.js:526:10)
+    at Socket.emit (node:events:513:28)
+    at addChunk (node:internal/streams/readable:315:12)
+    --------------------
+    at Pool.query (/Users/superyang/Downloads/cms-api/node_modules/mysql/lib/Pool.js:199:23)
+    at node:internal/util:361:7
+    at new Promise (<anonymous>)
+    at Pool.query (node:internal/util:347:12)
+    at RDSClient._query (/Users/superyang/Downloads/cms-api/node_modules/ali-rds/lib/client.js:23:29)
+    at RDSClient.query (/Users/superyang/Downloads/cms-api/node_modules/ali-rds/lib/operator.js:43:31)
+    at UserService.select (/Users/superyang/Downloads/cms-api/app/service/base.js:19:38)
+    at RoleResourceController.index (/Users/superyang/Downloads/cms-api/app/controller/base.js:16:45)
+    at Object.callFn (/Users/superyang/Downloads/cms-api/node_modules/egg-core/lib/utils/index.js:44:21)
+    at Object.classControllerMiddleware (/Users/superyang/Downloads/cms-api/node_modules/egg-core/lib/loader/mixin/controller.js:87:20)
+    sql: SELECT * FROM role_resource where 1=1   order by id DESC limit 0,3
+code: "ER_BAD_FIELD_ERROR"
+errno: 1054
+sqlMessage: "Unknown column 'id' in 'order clause'"
+sqlState: "42S22"
+index: 0
+sql: "SELECT * FROM role_resource where 1=1   order by id DESC limit 0,3"
+name: "ER_BAD_FIELD_ERRORError"
+pid: 93461
+hostname: superyangdeMacBook-Pro.local
+
+2023-06-25 13:56:56,193 ERROR 93518 [-/127.0.0.1/-/12ms GET /api/roleResource] nodejs.ER_BAD_FIELD_ERRORError: ER_BAD_FIELD_ERROR: Unknown column 'id' in 'order clause'
+    at Query.Sequence._packetToError (/Users/superyang/Downloads/cms-api/node_modules/mysql/lib/protocol/sequences/Sequence.js:47:14)
+    at Query.ErrorPacket (/Users/superyang/Downloads/cms-api/node_modules/mysql/lib/protocol/sequences/Query.js:79:18)
+    at Protocol._parsePacket (/Users/superyang/Downloads/cms-api/node_modules/mysql/lib/protocol/Protocol.js:291:23)
+    at Parser._parsePacket (/Users/superyang/Downloads/cms-api/node_modules/mysql/lib/protocol/Parser.js:433:10)
+    at Parser.write (/Users/superyang/Downloads/cms-api/node_modules/mysql/lib/protocol/Parser.js:43:10)
+    at Protocol.write (/Users/superyang/Downloads/cms-api/node_modules/mysql/lib/protocol/Protocol.js:38:16)
+    at Socket.<anonymous> (/Users/superyang/Downloads/cms-api/node_modules/mysql/lib/Connection.js:88:28)
+    at Socket.<anonymous> (/Users/superyang/Downloads/cms-api/node_modules/mysql/lib/Connection.js:526:10)
+    at Socket.emit (node:events:513:28)
+    at addChunk (node:internal/streams/readable:315:12)
+    --------------------
+    at Pool.query (/Users/superyang/Downloads/cms-api/node_modules/mysql/lib/Pool.js:199:23)
+    at node:internal/util:361:7
+    at new Promise (<anonymous>)
+    at Pool.query (node:internal/util:347:12)
+    at RDSClient._query (/Users/superyang/Downloads/cms-api/node_modules/ali-rds/lib/client.js:23:29)
+    at RDSClient.query (/Users/superyang/Downloads/cms-api/node_modules/ali-rds/lib/operator.js:43:31)
+    at UserService.select (/Users/superyang/Downloads/cms-api/app/service/base.js:19:38)
+    at RoleResourceController.index (/Users/superyang/Downloads/cms-api/app/controller/base.js:16:45)
+    at Object.callFn (/Users/superyang/Downloads/cms-api/node_modules/egg-core/lib/utils/index.js:44:21)
+    at Object.classControllerMiddleware (/Users/superyang/Downloads/cms-api/node_modules/egg-core/lib/loader/mixin/controller.js:87:20)
+    sql: SELECT * FROM role_resource where 1=1   order by id DESC limit 0,3
+code: "ER_BAD_FIELD_ERROR"
+errno: 1054
+sqlMessage: "Unknown column 'id' in 'order clause'"
+sqlState: "42S22"
+index: 0
+sql: "SELECT * FROM role_resource where 1=1   order by id DESC limit 0,3"
+name: "ER_BAD_FIELD_ERRORError"
+pid: 93518
+hostname: superyangdeMacBook-Pro.local
+
+2023-06-25 13:56:56,699 ERROR 93518 [-/127.0.0.1/-/4ms GET /api/roleResource] nodejs.ER_BAD_FIELD_ERRORError: ER_BAD_FIELD_ERROR: Unknown column 'id' in 'order clause'
+    at Query.Sequence._packetToError (/Users/superyang/Downloads/cms-api/node_modules/mysql/lib/protocol/sequences/Sequence.js:47:14)
+    at Query.ErrorPacket (/Users/superyang/Downloads/cms-api/node_modules/mysql/lib/protocol/sequences/Query.js:79:18)
+    at Protocol._parsePacket (/Users/superyang/Downloads/cms-api/node_modules/mysql/lib/protocol/Protocol.js:291:23)
+    at Parser._parsePacket (/Users/superyang/Downloads/cms-api/node_modules/mysql/lib/protocol/Parser.js:433:10)
+    at Parser.write (/Users/superyang/Downloads/cms-api/node_modules/mysql/lib/protocol/Parser.js:43:10)
+    at Protocol.write (/Users/superyang/Downloads/cms-api/node_modules/mysql/lib/protocol/Protocol.js:38:16)
+    at Socket.<anonymous> (/Users/superyang/Downloads/cms-api/node_modules/mysql/lib/Connection.js:88:28)
+    at Socket.<anonymous> (/Users/superyang/Downloads/cms-api/node_modules/mysql/lib/Connection.js:526:10)
+    at Socket.emit (node:events:513:28)
+    at addChunk (node:internal/streams/readable:315:12)
+    --------------------
+    at Pool.query (/Users/superyang/Downloads/cms-api/node_modules/mysql/lib/Pool.js:199:23)
+    at node:internal/util:361:7
+    at new Promise (<anonymous>)
+    at Pool.query (node:internal/util:347:12)
+    at RDSClient._query (/Users/superyang/Downloads/cms-api/node_modules/ali-rds/lib/client.js:23:29)
+    at RDSClient.query (/Users/superyang/Downloads/cms-api/node_modules/ali-rds/lib/operator.js:43:31)
+    at UserService.select (/Users/superyang/Downloads/cms-api/app/service/base.js:19:38)
+    at RoleResourceController.index (/Users/superyang/Downloads/cms-api/app/controller/base.js:16:45)
+    at Object.callFn (/Users/superyang/Downloads/cms-api/node_modules/egg-core/lib/utils/index.js:44:21)
+    at Object.classControllerMiddleware (/Users/superyang/Downloads/cms-api/node_modules/egg-core/lib/loader/mixin/controller.js:87:20)
+    sql: SELECT * FROM role_resource where 1=1   order by id DESC limit 0,3
+code: "ER_BAD_FIELD_ERROR"
+errno: 1054
+sqlMessage: "Unknown column 'id' in 'order clause'"
+sqlState: "42S22"
+index: 0
+sql: "SELECT * FROM role_resource where 1=1   order by id DESC limit 0,3"
+name: "ER_BAD_FIELD_ERRORError"
+pid: 93518
+hostname: superyangdeMacBook-Pro.local
+
+2023-06-25 14:03:58,648 ERROR 93518 [-/127.0.0.1/-/407657ms GET /api/roleResource] nodejs.ER_BAD_FIELD_ERRORError: ER_BAD_FIELD_ERROR: Unknown column 'id' in 'order clause'
+    at Query.Sequence._packetToError (/Users/superyang/Downloads/cms-api/node_modules/mysql/lib/protocol/sequences/Sequence.js:47:14)
+    at Query.ErrorPacket (/Users/superyang/Downloads/cms-api/node_modules/mysql/lib/protocol/sequences/Query.js:79:18)
+    at Protocol._parsePacket (/Users/superyang/Downloads/cms-api/node_modules/mysql/lib/protocol/Protocol.js:291:23)
+    at Parser._parsePacket (/Users/superyang/Downloads/cms-api/node_modules/mysql/lib/protocol/Parser.js:433:10)
+    at Parser.write (/Users/superyang/Downloads/cms-api/node_modules/mysql/lib/protocol/Parser.js:43:10)
+    at Protocol.write (/Users/superyang/Downloads/cms-api/node_modules/mysql/lib/protocol/Protocol.js:38:16)
+    at Socket.<anonymous> (/Users/superyang/Downloads/cms-api/node_modules/mysql/lib/Connection.js:88:28)
+    at Socket.<anonymous> (/Users/superyang/Downloads/cms-api/node_modules/mysql/lib/Connection.js:526:10)
+    at Socket.emit (node:events:513:28)
+    at addChunk (node:internal/streams/readable:315:12)
+    --------------------
+    at Pool.query (/Users/superyang/Downloads/cms-api/node_modules/mysql/lib/Pool.js:199:23)
+    at node:internal/util:361:7
+    at new Promise (<anonymous>)
+    at Pool.query (node:internal/util:347:12)
+    at RDSClient._query (/Users/superyang/Downloads/cms-api/node_modules/ali-rds/lib/client.js:23:29)
+    at RDSClient.query (/Users/superyang/Downloads/cms-api/node_modules/ali-rds/lib/operator.js:43:31)
+    at UserService.select (/Users/superyang/Downloads/cms-api/app/service/base.js:19:38)
+    at RoleResourceController.index (/Users/superyang/Downloads/cms-api/app/controller/base.js:16:45)
+    at Object.callFn (/Users/superyang/Downloads/cms-api/node_modules/egg-core/lib/utils/index.js:44:21)
+    at Object.classControllerMiddleware (/Users/superyang/Downloads/cms-api/node_modules/egg-core/lib/loader/mixin/controller.js:87:20)
+    sql: SELECT * FROM role_resource where 1=1   order by id DESC limit 0,3
+code: "ER_BAD_FIELD_ERROR"
+errno: 1054
+sqlMessage: "Unknown column 'id' in 'order clause'"
+sqlState: "42S22"
+index: 0
+sql: "SELECT * FROM role_resource where 1=1   order by id DESC limit 0,3"
+name: "ER_BAD_FIELD_ERRORError"
+pid: 93518
+hostname: superyangdeMacBook-Pro.local
+
+2023-06-25 14:07:04,241 ERROR 93518 [-/127.0.0.1/-/4ms GET /api/roleUser] nodejs.ER_BAD_FIELD_ERRORError: ER_BAD_FIELD_ERROR: Unknown column 'id' in 'order clause'
+    at Query.Sequence._packetToError (/Users/superyang/Downloads/cms-api/node_modules/mysql/lib/protocol/sequences/Sequence.js:47:14)
+    at Query.ErrorPacket (/Users/superyang/Downloads/cms-api/node_modules/mysql/lib/protocol/sequences/Query.js:79:18)
+    at Protocol._parsePacket (/Users/superyang/Downloads/cms-api/node_modules/mysql/lib/protocol/Protocol.js:291:23)
+    at Parser._parsePacket (/Users/superyang/Downloads/cms-api/node_modules/mysql/lib/protocol/Parser.js:433:10)
+    at Parser.write (/Users/superyang/Downloads/cms-api/node_modules/mysql/lib/protocol/Parser.js:43:10)
+    at Protocol.write (/Users/superyang/Downloads/cms-api/node_modules/mysql/lib/protocol/Protocol.js:38:16)
+    at Socket.<anonymous> (/Users/superyang/Downloads/cms-api/node_modules/mysql/lib/Connection.js:88:28)
+    at Socket.<anonymous> (/Users/superyang/Downloads/cms-api/node_modules/mysql/lib/Connection.js:526:10)
+    at Socket.emit (node:events:513:28)
+    at addChunk (node:internal/streams/readable:315:12)
+    --------------------
+    at Pool.query (/Users/superyang/Downloads/cms-api/node_modules/mysql/lib/Pool.js:199:23)
+    at node:internal/util:361:7
+    at new Promise (<anonymous>)
+    at Pool.query (node:internal/util:347:12)
+    at RDSClient._query (/Users/superyang/Downloads/cms-api/node_modules/ali-rds/lib/client.js:23:29)
+    at RDSClient.query (/Users/superyang/Downloads/cms-api/node_modules/ali-rds/lib/operator.js:43:31)
+    at UserService.select (/Users/superyang/Downloads/cms-api/app/service/base.js:19:38)
+    at RoleUserController.index (/Users/superyang/Downloads/cms-api/app/controller/base.js:16:45)
+    at Object.callFn (/Users/superyang/Downloads/cms-api/node_modules/egg-core/lib/utils/index.js:44:21)
+    at Object.classControllerMiddleware (/Users/superyang/Downloads/cms-api/node_modules/egg-core/lib/loader/mixin/controller.js:87:20)
+    sql: SELECT * FROM role_user where 1=1   order by id DESC limit 0,3
+code: "ER_BAD_FIELD_ERROR"
+errno: 1054
+sqlMessage: "Unknown column 'id' in 'order clause'"
+sqlState: "42S22"
+index: 0
+sql: "SELECT * FROM role_user where 1=1   order by id DESC limit 0,3"
+name: "ER_BAD_FIELD_ERRORError"
+pid: 93518
+hostname: superyangdeMacBook-Pro.local
+
